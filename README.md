@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="#">
+  <a href="https://github.com/MuriloKrominski">
     <img align="center" width="280" src="signature.png" />
   </a>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀       
-  <a href="#">
+  <a href="https://github.com/MuriloKrominski">
     <img align="center" width="280" src="banner.gif" />
   </a>
 </p>
@@ -24,7 +24,7 @@
   </a>
 </p>
 
-## Apresentação de Murilo Krominski: <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## Apresentação de Murilo Krominski: <a href="https://github.com/MuriloKrominski"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></a>
 Prezados Recrutadores,
 
 Em janeiro de 2021 eu voltarei ao Brasil depois de um período de mais de dois anos vivendo na Europa.
