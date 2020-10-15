@@ -2,6 +2,7 @@
   <a href="#">
     <img align="center" width="280" src="signature.png" />
   </a>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀       
   <a href="#">
     <img align="center" width="280" src="banner.gif" />
   </a>
