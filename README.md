@@ -24,6 +24,10 @@
   </a>
 </p>
 
+[![Linkedin: Murilo Krominski](https://img.shields.io/badge/-Murilo_Krominski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilokrominski/)](https://www.linkedin.com/in/murilokrominski/)
+[![Microsoft Badge](https://img.shields.io/badge/-murilo.krominski@fgv.edu.br-blue?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:murilo.krominski@fgv.edu.br)](mailto:murilo.krominski@fgv.edu.br)
+[![Gmail Badge](https://img.shields.io/badge/-murilokr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murilokr@gmail.com)](mailto:murilokr@gmail.com)
+
 ## Apresentação de Murilo Krominski: <a href="https://github.com/MuriloKrominski"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></a>
 Prezados Recrutadores,
 
