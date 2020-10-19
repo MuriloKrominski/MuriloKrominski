@@ -1,29 +1,3 @@
-<p align="center">
-  <a href="https://github.com/MuriloKrominski">
-    <img align="center" width="280" src="signature.png" />
-  </a>
-⠀⠀⠀⠀⠀⠀⠀⠀⠀       
-  <a href="https://github.com/MuriloKrominski">
-    <img align="center" width="280" src="banner.gif" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/MuriloKrominski">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloKrominski&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/MuriloKrominski">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=MuriloKrominski&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
-  </a>
-</p>
-
 ## Apresentação de Murilo Krominski: <a href="https://github.com/MuriloKrominski"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></a>
 Prezados Recrutadores,
 
