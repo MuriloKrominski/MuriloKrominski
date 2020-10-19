@@ -32,7 +32,7 @@
 Prezados colegas e amigos,
 
 Em janeiro de 2021 eu voltarei ao Brasil depois de um período de mais de dois anos vivendo na Europa.
-Estou em busca de um novo desafio profissional, e por acreditar que minhas experiências, perfil e formação possam ser relevantes para as empresas em que alguns de voces atuam, eu gostaria de apresentar-lhes alguns dos principais modos em que poderei vir colaborar com os objetivos de vossa organização.
+Estou em busca de um novo desafio profissional, e por acreditar que minhas experiências, perfil e formação possam ser relevantes para as empresas em que alguns de vocês atuam, eu gostaria de apresentar-lhes alguns dos principais modos em que poderei vir colaborar com os objetivos de vossa organização.
 
 Tenho domínio sobre as mais recentes e avançadas técnicas e ferramentas para transformação de dados brutos em informações significativas, algo imprescindível para tomadas de decisões importantes de forma efetiva, segura e bem fundamentada, além de poder identificar, monitorar, desenvolver, e até mesmo criar novas oportunidades internas e de estratégias de negócios com vantagem competitiva e estabilidade a longo prazo para o vosso negócio.
 
