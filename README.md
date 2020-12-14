@@ -28,6 +28,8 @@
 [![Microsoft Badge](https://img.shields.io/badge/-murilo.krominski@fgv.edu.br-blue?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:murilo.krominski@fgv.edu.br)](mailto:murilo.krominski@fgv.edu.br)
 [![Gmail Badge](https://img.shields.io/badge/-murilokr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murilokr@gmail.com)](mailto:murilokr@gmail.com)
 
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="murilokrominski"><a class="LI-simple-link" href='https://pt.linkedin.com/in/murilokrominski?trk=profile-badge'>Murilo Krominski</a></div>
+
 ## Apresentação de Murilo Krominski: <a href="https://github.com/MuriloKrominski"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></a>
 Prezados Senhores e Senhoras,
 
