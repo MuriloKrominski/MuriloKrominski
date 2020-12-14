@@ -62,7 +62,7 @@ Atualmente estou me desligando dos trabalhos como Gestor Comercial / Gestor de C
 
 Apto a resolver problemas e fazer bons negócios, busco oportunidade administrativa, comercial, executiva ou técnica; busco somar minhas afinidades para principal atuação em áreas organizacionais e estratégicas, estando aberto a propostas de qualquer âmbito em qualquer Cidade ou Estado.
 
-Segue em anexo, uma cópia do meu resumo curricular.
+Segue aqui o meu resumo curricular.
 
 Atenciosamente,
 
