@@ -31,14 +31,15 @@
 ## Apresentação de Murilo Krominski: <a href="https://github.com/MuriloKrominski"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></a>
 Prezados colegas e amigos,
 
-Em janeiro de 2021 eu voltarei ao Brasil depois de um período de mais de dois anos vivendo na Europa.
-Estou em busca de um novo desafio profissional, e por acreditar que minhas experiências, perfil e formação possam ser relevantes para as empresas em que alguns de vocês atuam, eu gostaria de apresentar-lhes alguns dos principais modos em que poderei vir colaborar com os objetivos de vossa organização.
+Em janeiro de 2021, retorno ao Brasil depois de um período de dois e meio anos vivendo na Europa.
+Estou em busca de um novo desafio profissional, e por acreditar que minhas experiências, perfil e formação possam ser relevantes, especialmente neste momento de tantas transições econômicas, eu gostaria de apresentar-lhes alguns dos principais modos em que poderei vir colaborar com os objetivos de vossa organização.
 
 Tenho domínio sobre as mais recentes e avançadas técnicas e ferramentas para transformação de dados brutos em informações significativas, algo imprescindível para tomadas de decisões importantes de forma efetiva, segura e bem fundamentada, além de poder identificar, monitorar, desenvolver, e até mesmo criar novas oportunidades internas e de estratégias de negócios com vantagem competitiva e estabilidade a longo prazo para o vosso negócio.
 
-Nos últimos anos eu vivi no maior polo tecnologico da Itália, e também nas duas principais cidades de Portugal.
-Neste período, tenho participado de treinamentos e eventos por grandes empresas, como IBM, Google, Relayr, DriverlessAI (H2OAI), Logoplaste, Erising, e também por instituições de ensino e associações de profissionais, relacionados a integração de novas tecnologias com metodologias de gestão de empresas, Smart Manufacturing, Business Intelligence, e Industria 4.0.
-Além de ser cidadão Brasileiro, eu também conquistei o reconhecimento de uma cidadania europeia, no caso a Italiana (uma das melhores do mundo no âmbito de possuir livre acesso a outros países), também consegui o reconhecimento de diversas certificações, além das quais eu obtive nesse período, como pela Google Itália que me concedeu uma certificação em Marketing.
+Nos últimos anos eu vivi no maior polo tecnológico da Itália, e nas duas principais cidades de Portugal.
+Neste período, tenho participado de treinamentos e eventos por grandes empresas, como IBM, Google, Relayr, DriverlessAI (H2OAI), Logoplaste, Erising, e também por instituições de ensino e associações das mais prestigiadas como World Economic Forum e C4IR, relacionados as profundas transformações no cenário mundial para 2021 e além, como a Economia dos 80%, Great Reset mundial, com integração de novas tecnologias com metodologias de gestão de empresas, Smart Manufacturing, Business Intelligence, e Industria 4.0.
+
+Além de ser cidadão Brasileiro, eu também conquistei o reconhecimento de uma cidadania europeia, no caso a Italiana (uma das melhores do mundo no âmbito de possuir livre acesso a outros países), também consegui o reconhecimento de diversas certificações, além das quais eu obtive nesse período, como pela Google Itália.
 
 Participei da Maratona Behind the Code da IBM, chegando até a última fase com 8 projetos concluídos com o Watson da IBM, para as empresas Cocamar, UNINASSAU, FIAP, Algar, Tecban, LIT, TNT e Fiat Chrysler Automobiles, usando as tecnologias mais disruptivas do mercado como Inteligência Artificial, BigData, Cloud, Visual Recognition, Machine Learning, Containers e IoT, para encontrar a resolução de problemas gerenciais, de inteligência e técnicos dessas empresas.
 
@@ -53,11 +54,11 @@ Sou graduado em Engenharia de Controle e Automação, com registro no CREA, alé
 Minhas experiências profissionais e formação acadêmica abrangem áreas administrativas e técnicas, o que me permitem manter uma visão integrada de processos de áreas diferentes em minhas análises e decisões, e acredito que isto venha de encontra aos interesses de vossa empresa para decisões estratégicas.
 
 Entre as atividades que emprego ou já empreguei, se encontram a atuação como gestor, auditor e consultor de “Sistemas da Qualidade”, principalmente em fornecedores; coordenação de pequenas equipes técnicas e administrativas; otimização de processos diversos com automação e desenvolvimento de sistemas de controle; atuação direta com resolução de problemas de logística, qualidade, engenharia, marketing, vendas, etc.
-Fui o autor de uma planilha de controle em Excel com VBA, que na ocasião substituiu o padrão mundial na Valeo Group, no programa de SPPC (Special Product and Process Characteristics).
+Fui o autor de um sistema de controle em Excel com VBA, que na ocasião substituiu o padrão mundial na Valeo Group, no programa de SPPC (Special Product and Process Characteristics).
 Realizei um estudo que levou a resolução de um problema técnico que perdurava anos, no setor de embalagens da Amend Cosméticos.
 Conheci praticamente todos os departamentos e seus desdobramentos de atividades, dentro de empresas de pequeno, médio e grande porte, nacionais ou multinacionais.
 
-Atualmente atuando profissionalmente como Gestor Comercial / Gestor de Clientes pela ManpowerGroup Solutions representando a NOS, Especialista Imobiliário pela RE/MAX.
+Atualmente estou me desligando dos trabalhos como Gestor Comercial / Gestor de Clientes, e Consultor Imobiliário / Consultor de Investimentos, respectivamente pelas empresas ManpowerGroup Solutions / NOS; e por RE/MAX Group / Investidor Em Portugal.
 
 Apto a resolver problemas e fazer bons negócios, busco oportunidade administrativa, comercial, executiva ou técnica; busco somar minhas afinidades para principal atuação em áreas organizacionais e estratégicas, estando aberto a propostas de qualquer âmbito em qualquer Cidade ou Estado.
 
@@ -71,51 +72,59 @@ Murilo Krominski
 
 [![Acesso](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/15px-Google_Drive_logo.png)](http://bit.ly/31aSyqF) Curriculum Vitae simplificado em PDF via Google Drive: http://bit.ly/31aSyqF 
 
-Cidadanias Italiana e Brasileira | Documentado em vários países, como Brasil, Itália e Portugal.<br>
-Atualmente estou a viver na cidade do Porto, em Portugal, com <b>disponibilidade total para mudanças, inclusive internacionais</b>.<br>
-31 anos | Solteiro | murilokr@gmail.com | murilo.krominski@fgv.edu.br | <a href="http://www.linkedin.com/in/murilokrominski">linkedin.com/in/murilokrominski</a> | <a href="https://wa.me/+351-913169801">+351 913 169 801</a>
+Cidadanias Brasileira e Italiana | 31 anos. <br>
+Em retorno ao Brasil em janeiro de 2021, atualmente vivendo em Paranhos, Porto, Portugal. <br>
+Possuo <b>disponibilidade total para mudanças, inclusive internacionais</b>. <br>
+<a href="mailto:murilo.krominski@fgv.edu.br">murilo.krominski@fgv.edu.br</a> | 
+<a href="https://murilokrominski.github.io/">murilokrominski.github.io</a> | <a href="http://www.linkedin.com/in/murilokrominski">linkedin.com/in/murilokrominski</a> | <a href="https://wa.me/+351-913169801">+351 911753443</a>
 
 <h2>Objetivo:</h2>
-Apto a resolver problemas e fazer bons negócios, busco oportunidade administrativa, comercial, executiva ou técnica; disposto a analisar propostas.
+Resolver problemas, fazer bons negócios, reduzir custos, e otimizar processos; busco desafios em cargo executivo, seja em área administrativa, técnica ou comercial - disposto em analisar outras propostas.
 
 <h2>Perfil Profissional:</h2>
-Possuo aptidões para negócios, tecnologias, pessoas e processos; potencializadas por uma ampla formação, com mais de 30 certificações, integradas com práticas profissionais que englobam todos os departamentos de uma empresa. 
-Atualizado com as últimas tecnologias e métodos de resoluções de problemas em Business Intelligence.
+Possuo aptidões para negócios, tecnologias, pessoas e processos; potencializadas por uma ampla formação, com dezenas de certificações, integradas com práticas profissionais que englobam todos os departamentos de uma empresa. 
+Atualizado com as últimas tecnologias e métodos em Business Intelligence, e o mais moderno em Indústria 4.0 e IoT. 
 
-<h2>Escolaridade (compêndio com as principais):</h2>
-•	<b>Especialização - Administração de Empresas (lato sensu):</b> 
+<h2>Escolaridade (compêndio com as principais): </h2>
+•	<b>Especialização - Administração de Empresas (lato sensu): </b> 
 FGV Management (Fundação Getúlio Vargas), São Paulo, Brasil: 2014 - 2015.
 TOP 1 América Latina / TOP 9 Think Tank Worldwide / TOP 100 Global Management (única privado-brasileira).
 <br><br>
 •	<b>Graduação - Engenharia de Controlo e Automação (bacharelado):</b>
 UniABC (Universidade do Grande ABC), São Paulo, Brasil: 2009 - 2013.
 Registro no CONFEA / CREA (Brasil), OE (Portugal) / FEANI (União Europeia).
+<br><br>
+•	<b>Graduação - Engenharia de Controlo e Automação (bacharelado):</b>
+UniABC (Universidade do Grande ABC), São Paulo, Brasil: 2009 - 2013.
+Registro no CONFEA / CREA (Brasil), OE (Portugal) / FEANI (União Europeia).
+<br><br>
+•	<b>Técnico em Mecatrônica Industrial (colégio técnico): </b>
+Colégio Pentágono, Santo André, São Paulo, Brasil: 2005 - 2008.
 
 <h2>Idiomas:</h2>
 <b>Português</b> (fluente C2), <b>Italiano</b> (proficiente C1), <b>Inglês</b> (avançado B2, em breve C1), <b>Espanhol</b> (intermediário B1).
 
-<h2>Principais Certificações e Licenças (compêndio com as principais):</h2>
+<h2>Principais Certificações e Licenças (compêndio com as principais): </h2>
 <b>Auditoria / Consultoria / Gestão de Qualidade:</b> 5W2H; APQP (Planeamento Avançado da Qualidade do Produto); Estatística; FMEA (Análise de Modo e Efeitos de Falha Potencial); FTA; ISO 9001; ISO/TS 16949; Kaisen; LLC; MSA (Análise dos Sistemas de Medição); QRQC-PDCA-SDCA-FTA (Resposta Rápida do Controle de Qualidade da Valeo). <br><br>
 
-<b>Automação / Controle / Engenharia / Inteligência de Dados / Linguagens de Máquinas:</b> Arduíno; Assembly (MPLAB Microchips PIC); C++; Ladder (PLC); Rede de Petri; Macros e VBA (Excel); Object Pascal (Delphi); UserRPL / SysRPL. <br>
+<b>Automação / Controle / Engenharia / Inteligência de Dados / Linguagens de Máquinas:</b> Python, Data Science, Machine Learning, Inteligência Artificial, BigData. Cloud, Containers, Arduíno; Assembly (MPLAB Microchips PIC); C++; Ladder (PLC); Rede de Petri; Macros e VBA (Excel); Object Pascal (Delphi); UserRPL / SysRPL.<br>
 
-<b>Gestão de Negócios / Legal / Logística / Marketing / Recursos Humanos / Vendas:</b> Calculadora Financeira HP 12C; Dropshipping; Economia; Gerenciamento de Projetos Valeo / Processos Administrativos e Produtivos; Marketing Digital by Google Italy (credenciado IAB Europe); Modernização Administrativa em Recursos Humanos; Patentes e Bases; Planeamento / Gestão de Vendas; Power Searching with Google; Reforma Ortográfica BR/PT; Vendedor Profissional. <br>
+<b>Gestão de Negócios / Legal / Logística / Marketing / Recursos Humanos / Vendas:</b> Calculadora Financeira HP 12C; Dropshipping; Economia; Gerenciamento de Projetos Valeo / Processos Administrativos e Produtivos; Marketing Digital by Google Italy (credenciado IAB Europe); Modernização Administrativa em Recursos Humanos; Patentes e Bases; Planeamento / Gestão de Vendas; Power Searching with Google; Reforma Ortográfica BR/PT; Vendedor Profissional.<br>
 
-<b>A Cursar:</b> Financial Analyst Training, Investing and Master of Business Administration Course com Chris Haroun;
-Python (com Data Science, Machine Learning e Inteligência Artificial). <br>
+<b>A Cursar:</b> Financial Analyst Training, Investing and Master of Business Administration Course com Chris Haroun.<br>
 
 <h2>Histórico Profissional (compêndio com as principais):</h2>
-<b>•	Gestor Comercial / Gestor de Clientes, ManpowerGroup Solutions / NOS</b>, Portugal, 02/2020 - Pausado. <br>
-Desenvolvimento e aplicação de estratégias comerciais (individuais e coletivas), a garantir apresentações persuasivas e personalizadas, a resultar em angariações / prospeções de clientes em sempre bons negócios, com feedback diário. <br><br>
+<b>•	Gestor Comercial / Gestor de Clientes, ManpowerGroup Solutions / NOS</b>, Portugal, 02/2020 - 11/2020. <br>
+Desenvolvimento e aplicação de estratégias comerciais (individuais e coletivas), a garantir apresentações persuasivas e personalizadas, a resultar em angariações / prospecções de clientes em sempre bons negócios, com feedback diário. <br><br>
 
-<b>•	Consultor Imobiliário, RE/MAX</b>, Portugal, 11/2019 - Atual. <br>
+<b>•	Consultor Imobiliário, RE/MAX</b>, Portugal, 11/2019 - 11/2020.<br>
 Estudos de Mercado; Qualificação de imóveis, pessoas e negócios; Planos de Marketing Estratégico de ampla difusão; Animação computadorizada; Negociação e contratos com clientes e/ou parceiros (Confidencial Imobiliário, Google Earth Engine, Idealista, MAXFINANCE, Melom Obras, OEC, REATIA); I.A; Robôs de Dados; Vendas e Arrendamentos, etc. <br>
 
-<b>•	Consultor de Trade Marketing, Presencial e/ou Virtual</b>, Mundial, 08/2013 - Atual. <br>
+<b>•	Consultor de Marketing e Investimentos, InvestidorEmPortugal, Presencial e/ou Virtual, 08/2013 - 11/2020. <br>
 Cases de Sucesso com 4.5M de inscritos; Autor de “Estratégias do Marketing 3.0”, pela FGV; free-lancer, etc. <br>
 
 <b>•	Gerente Administrativo, Novidades Modas - Fashion Store</b>, SP, Brasil, 01/2014 - 07/2018. <br>
-Gerenciamento e estruturação do Business Plan, a gerar crescimento de receitas, perceção de valor e fidelização, etc. <br>
+Gerenciamento e estruturação do Business Plan, a gerar crescimento de receitas, percepção de valor, fidelização, etc. <br>
 
 <b>•	Desenvolvedor de Sistema Informático, Quero Agregar - Negócio Digital</b>, Brasil, 03/2015 - 02/2016. <br>
 Desenvolvi um sistema informático integrado com plataformas Cloud Computing, para “Angariar Cargas” para transporte de cargas privados, para integrar profissionais autônomos a empresas de logística com baixo custo, etc. <br>
@@ -131,7 +140,7 @@ Criação de “Books de Defeitos” para terceiristas e uso fabril, bem como de
 Responsável pela implementação do “Módulo da Qualidade - Inspeção de Recebimento” do software Microsiga Protheus; desde criação, validação de fluxos e coordenação dos responsáveis pelo cadastramento de dados.
 Apoio à Gerência Industrial na elaboração e desdobramento do “Planejamento Estratégico da Fábrica”.
 Implementação e gestão do “Processo de Controle de Não Conformidades”.
-Elaboração de Materiais de Apoio para diversos departamentos (apresentações, apostilas, etc.) e realização de treinamentos técnicos, de conscientização e capacitação.
+Elaboração de Materiais de Apoio para diversos departamentos (apresentações, apostilas etc.) e realização de treinamentos técnicos, de conscientização e capacitação.
 Participações técnicas, em pesquisas e desenvolvimentos (engenharia) de novos produtos.<br>
 
 <b>•	Trainee - Engenheiro de Qualidade, Valeo Automotive Systems - Multinacional</b>, SP, Brasil, 01/2011 - 10/2012. <br>
@@ -154,6 +163,6 @@ Coordenação do "Setor de Qualidade", auxiliando o Supervisor Geral, criando si
 Responsável pela formação de cada membro da Qualidade e treinamento de assistentes técnicos e estagiários.
 Realizei várias funções, tais como: Desenvolvi software de computador em 'Delphi', que acelerou imensamente a criação e reparo de rótulos para dispositivos celulares com tecnologias CDMA e TDMA.
 Realizei testes e reparos em aparelhos novos e semi-novos de todas as tecnologias e fabricantes (eletrônica).
-Fui recomendado pela Instituiçao de Ensino.
+Fui recomendado pela Instituição de Ensino como melhor aluno.
 
 <b>Outras empresas e experiências…</b> <br>
