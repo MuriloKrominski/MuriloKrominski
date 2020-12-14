@@ -29,15 +29,15 @@
 [![Gmail Badge](https://img.shields.io/badge/-murilokr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murilokr@gmail.com)](mailto:murilokr@gmail.com)
 
 ## Apresentação de Murilo Krominski: <a href="https://github.com/MuriloKrominski"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></a>
-Prezados colegas e amigos,
+Prezados Senhores e Senhoras,
 
-Em janeiro de 2021, retorno ao Brasil depois de um período de dois e meio anos vivendo na Europa.
-Estou em busca de um novo desafio profissional, e por acreditar que minhas experiências, perfil e formação possam ser relevantes, especialmente neste momento de tantas transições econômicas, eu gostaria de apresentar-lhes alguns dos principais modos em que poderei vir colaborar com os objetivos de vossa organização.
-
-Tenho domínio sobre as mais recentes e avançadas técnicas e ferramentas para transformação de dados brutos em informações significativas, algo imprescindível para tomadas de decisões importantes de forma efetiva, segura e bem fundamentada, além de poder identificar, monitorar, desenvolver, e até mesmo criar novas oportunidades internas e de estratégias de negócios com vantagem competitiva e estabilidade a longo prazo para o vosso negócio.
+Em janeiro de 2021, retorno ao Brasil depois de um período de dois anos e meio de desenvolvimento pessoal e profissional na Europa.<br>
+Estou em busca de um novo desafio profissional, e por acreditar que minhas experiências, perfil e formação possam ser relevantes, especialmente neste momento de tantas transições econômicas, eu gostaria de apresentar-lhes alguns dos principais modos em que poderei vir colaborar com os objetivos da vossa organização.
 
 Nos últimos anos eu vivi no maior polo tecnológico da Itália, e nas duas principais cidades de Portugal.
-Neste período, tenho participado de treinamentos e eventos por grandes empresas, como IBM, Google, Relayr, DriverlessAI (H2OAI), Logoplaste, Erising, e também por instituições de ensino e associações das mais prestigiadas como World Economic Forum e C4IR, relacionados as profundas transformações no cenário mundial para 2021 e além, como a Economia dos 80%, Great Reset mundial, com integração de novas tecnologias com metodologias de gestão de empresas, Smart Manufacturing, Business Intelligence, e Industria 4.0.
+Neste período, tenho participado de treinamentos e eventos por grandes empresas, como IBM, Google, Relayr, DriverlessAI (H2OAI), Logoplaste, Erising, e também por instituições de ensino e associações das mais prestigiadas mundialmente como o World Economic Forum e C4IR, relacionados as profundas transformações no cenário mundial para 2021 e além, como a Economia dos 80%, Great Reset mundial, com integração de novas tecnologias com metodologias de gestão de empresas, Smart Manufacturing, Business Intelligence, e Industria 4.0.
+
+Tenho domínio sobre as mais recentes e avançadas técnicas e ferramentas para transformação de dados brutos em informações significativas, algo imprescindível para tomadas de decisões importantes de forma efetiva, segura e bem fundamentada, além de poder identificar, monitorar, desenvolver, e até mesmo criar novas oportunidades internas e de estratégias de negócios com vantagem competitiva e estabilidade a longo prazo para o vosso negócio.
 
 Além de ser cidadão Brasileiro, eu também conquistei o reconhecimento de uma cidadania europeia, no caso a Italiana (uma das melhores do mundo no âmbito de possuir livre acesso a outros países), também consegui o reconhecimento de diversas certificações, além das quais eu obtive nesse período, como pela Google Itália.
 
@@ -53,16 +53,16 @@ Sou graduado em Engenharia de Controle e Automação, com registro no CREA, alé
 
 Minhas experiências profissionais e formação acadêmica abrangem áreas administrativas e técnicas, o que me permitem manter uma visão integrada de processos de áreas diferentes em minhas análises e decisões, e acredito que isto venha de encontra aos interesses de vossa empresa para decisões estratégicas.
 
-Entre as atividades que emprego ou já empreguei, se encontram a atuação como gestor, auditor e consultor de “Sistemas da Qualidade”, principalmente em fornecedores; coordenação de pequenas equipes técnicas e administrativas; otimização de processos diversos com automação e desenvolvimento de sistemas de controle; atuação direta com resolução de problemas de logística, qualidade, engenharia, marketing, vendas, etc.
+Entre as atividades que emprego ou já empreguei, se encontram a atuação como gestor, auditor e consultor de “Sistemas da Qualidade”, principalmente em fornecedores; coordenação de equipes técnicas e administrativas; otimização de processos diversos com automação e desenvolvimento de sistemas de controle; atuação direta com resolução de problemas de logística, qualidade, engenharia, marketing, vendas, etc.
 Fui o autor de um sistema de controle em Excel com VBA, que na ocasião substituiu o padrão mundial na Valeo Group, no programa de SPPC (Special Product and Process Characteristics).
 Realizei um estudo que levou a resolução de um problema técnico que perdurava anos, no setor de embalagens da Amend Cosméticos.
 Conheci praticamente todos os departamentos e seus desdobramentos de atividades, dentro de empresas de pequeno, médio e grande porte, nacionais ou multinacionais.
 
-Atualmente estou me desligando dos trabalhos como Gestor Comercial / Gestor de Clientes, e Consultor Imobiliário / Consultor de Investimentos, respectivamente pelas empresas ManpowerGroup Solutions / NOS; e por RE/MAX Group / Investidor Em Portugal.
+Atualmente estou me desligando dos trabalhos como Gestor Comercial / Gestor de Clientes, e Consultor Imobiliário / Consultor de Investimentos, respectivamente pelas empresas ManpowerGroup Solutions / NOS; e por RE/MAX Group / Investidor Em Portugal, até porque estou saindo de Portugal em breve.
 
-Apto a resolver problemas e fazer bons negócios, busco oportunidade administrativa, comercial, executiva ou técnica; busco somar minhas afinidades para principal atuação em áreas organizacionais e estratégicas, estando aberto a propostas de qualquer âmbito em qualquer Cidade ou Estado.
+Apto a resolver problemas e fazer bons negócios, busco oportunidade administrativa, comercial, executiva ou técnica; busco somar minhas afinidades para principal atuação em áreas organizacionais e estratégicas.
 
-Segue aqui o meu resumo curricular.
+Segue o meu resumo curricular.
 
 Atenciosamente,
 
