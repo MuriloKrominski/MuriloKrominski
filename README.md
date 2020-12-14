@@ -120,7 +120,7 @@ Desenvolvimento e aplicação de estratégias comerciais (individuais e coletiva
 <b>•	Consultor Imobiliário, RE/MAX</b>, Portugal, 11/2019 - 11/2020.<br>
 Estudos de Mercado; Qualificação de imóveis, pessoas e negócios; Planos de Marketing Estratégico de ampla difusão; Animação computadorizada; Negociação e contratos com clientes e/ou parceiros (Confidencial Imobiliário, Google Earth Engine, Idealista, MAXFINANCE, Melom Obras, OEC, REATIA); I.A; Robôs de Dados; Vendas e Arrendamentos, etc. <br>
 
-<b>•	Consultor de Marketing e Investimentos, InvestidorEmPortugal, Presencial e/ou Virtual, 08/2013 - 11/2020. <br>
+<b>•	Consultor de Marketing e Investimentos, InvestidorEmPortugal</b>, Presencial e/ou Virtual, 08/2013 - 11/2020. <br>
 Cases de Sucesso com 4.5M de inscritos; Autor de “Estratégias do Marketing 3.0”, pela FGV; free-lancer, etc. <br>
 
 <b>•	Gerente Administrativo, Novidades Modas - Fashion Store</b>, SP, Brasil, 01/2014 - 07/2018. <br>
