@@ -28,6 +28,8 @@
 [![Microsoft Badge](https://img.shields.io/badge/-murilo.krominski@fgv.edu.br-blue?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:murilo.krominski@fgv.edu.br)](mailto:murilo.krominski@fgv.edu.br)
 [![Gmail Badge](https://img.shields.io/badge/-murilokr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murilokr@gmail.com)](mailto:murilokr@gmail.com)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/murilokrominskisvg?style=social&label=%40murilokrominski)](https://twitter.com/murilokrominski)
+<a href="https://wa.me/+351913169801"><img alt="" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="20"></a>
+<a href="https://t.me/murilokrominski"><img alt="" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="20"></a>
 
 ## Repositórios:
 <a href="https://murilokrominski.github.io"><img alt="" src="https://img.shields.io/badge/Repositórios%3A-Murilo%20Krominski-green"></a>
