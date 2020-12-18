@@ -80,7 +80,7 @@ Cidadanias Brasileira e Italiana | 31 anos. <br>
 Em retorno ao Brasil em janeiro de 2021, atualmente vivendo em Paranhos, Porto, Portugal. <br>
 Possuo <b>disponibilidade total para mudanças, inclusive internacionais</b>. <br>
 <a href="mailto:murilo.krominski@fgv.edu.br">murilo.krominski@fgv.edu.br</a> | 
-<a href="https://murilokrominski.github.io/">murilokrominski.github.io</a> | <a href="http://www.linkedin.com/in/murilokrominski">linkedin.com/in/murilokrominski</a> | <a href="https://wa.me/+351-913169801">+351 913169801</a>
+<a href="https://murilokrominski.github.io/">murilokrominski.github.io</a> | <a href="http://www.linkedin.com/in/murilokrominski">linkedin.com/in/murilokrominski</a> | <a href="https://wa.me/+351913169801">+351 913169801</a>
 
 <h2>Objetivo:</h2>
 Resolver problemas, fazer bons negócios, reduzir custos, e otimizar processos; busco desafios em cargo executivo, seja em área administrativa, técnica ou comercial - disposto em analisar outras propostas.
