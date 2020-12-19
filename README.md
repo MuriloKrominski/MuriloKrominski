@@ -79,7 +79,7 @@ Murilo Krominski
 [![Acesso](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/15px-Google_Drive_logo.png)](http://bit.ly/31aSyqF) Curriculum Vitae simplificado em PDF via Google Drive: http://bit.ly/31aSyqF 
 
 Cidadanias Brasileira e Italiana | 31 anos. <br>
-Em retorno ao Brasil em janeiro de 2021, atualmente vivendo em Paranhos, Porto, Portugal. <br>
+Retorno ao Brasil em janeiro de 2021 | Atualmente vivendo em Paranhos, Porto, Portugal. <br>
 Possuo <b>disponibilidade total para mudanças, inclusive internacionais</b>. <br>
 <a href="mailto:murilo.krominski@fgv.edu.br">murilo.krominski@fgv.edu.br</a> | 
 <a href="https://murilokrominski.github.io/">murilokrominski.github.io</a> | <a href="http://www.linkedin.com/in/murilokrominski">linkedin.com/in/murilokrominski</a> | <a href="https://wa.me/+351913169801">+351 913169801</a>
