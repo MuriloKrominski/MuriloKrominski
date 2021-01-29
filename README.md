@@ -85,10 +85,10 @@ Possuo <b>disponibilidade total para mudanças, inclusive internacionais</b>. <b
 <a href="https://murilokrominski.github.io/">murilokrominski.github.io</a> | <a href="http://www.linkedin.com/in/murilokrominski">linkedin.com/in/murilokrominski</a> | <a href="https://wa.me/+351913169801">+351 913169801</a>
 
 <h2>Objetivo:</h2>
-Resolver problemas, fazer bons negócios, reduzir custos, e otimizar processos; busco desafios em cargo executivo, seja em área administrativa, técnica ou comercial - disposto em analisar outras propostas.
+Resolver problemas, fazer bons negócios, reduzir custos, e otimizar processos; busco desafios executivos, administrativos, técnicos ou comerciais - disposto em analisar propostas, mudanças e viagens.
 
 <h2>Perfil Profissional:</h2>
-Possuo aptidões para negócios, tecnologias, pessoas e processos; potencializadas por uma ampla formação, com dezenas de certificações, integradas com práticas profissionais que englobam todos os departamentos de uma empresa. 
+Possuo aptidões para negócios, tecnologias, pessoas e processos; potencializadas por uma ampla formação, com algumas dezenas de certificações, integradas a práticas profissionais em todos os departamentos de uma empresa. 
 Atualizado com as últimas tecnologias e métodos em Business Intelligence, e o mais moderno em Indústria 4.0 e IoT. 
 
 <h2>Escolaridade (compêndio com as principais): </h2>
@@ -117,7 +117,7 @@ Colégio Pentágono, Santo André, São Paulo, Brasil: 2005 - 2008.
 
 <b>Gestão de Negócios / Legal / Logística / Marketing / Recursos Humanos / Vendas:</b> Calculadora Financeira HP 12C; Dropshipping; Economia; Gerenciamento de Projetos Valeo / Processos Administrativos e Produtivos; Marketing Digital by Google Italy (credenciado IAB Europe); Modernização Administrativa em Recursos Humanos; Patentes e Bases; Planeamento / Gestão de Vendas; Power Searching with Google; Reforma Ortográfica BR/PT; Vendedor Profissional.<br>
 
-<b>A Cursar:</b> Financial Analyst Training, Investing and Master of Business Administration Course com Chris Haroun.<br>
+<b>Cursando:</b> Financial Analyst Training, Investing and Master of Business Administration Course com Chris Haroun.<br>
 
 <h2>Histórico Profissional (compêndio com as principais):</h2>
 <b>•	Gestor Comercial / Gestor de Clientes, ManpowerGroup Solutions / NOS</b>, Portugal, 02/2020 - 11/2020. <br>
@@ -126,7 +126,7 @@ Desenvolvimento e aplicação de estratégias comerciais (individuais e coletiva
 <b>•	Consultor Imobiliário, RE/MAX</b>, Portugal, 11/2019 - 11/2020.<br>
 Estudos de Mercado; Qualificação de imóveis, pessoas e negócios; Planos de Marketing Estratégico de ampla difusão; Animação computadorizada; Negociação e contratos com clientes e/ou parceiros (Confidencial Imobiliário, Google Earth Engine, Idealista, MAXFINANCE, Melom Obras, OEC, REATIA); I.A; Robôs de Dados; Vendas e Arrendamentos, etc. <br>
 
-<b>•	Consultor de Marketing e Investimentos, InvestidorEmPortugal</b>, Presencial e/ou Virtual, 08/2013 - 11/2020. <br>
+<b>•	Consultor de Marketing e Investimentos, Pra Toda Mulher/InvestidorEmPortugal</b>, Presencial e/ou Virtual, 08/2013 - 11/2020. <br>
 Cases de Sucesso com 4.5M de inscritos; Canal de investimentos em Portugal; Autor de “Estratégias do Marketing 3.0”, pela FGV; free-lancer, etc. <br>
 
 <b>•	Gerente Administrativo, Novidades Modas - Fashion Store</b>, SP, Brasil, 01/2014 - 07/2018. <br>
