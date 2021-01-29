@@ -37,7 +37,7 @@
 ## Apresentação de Murilo Krominski: <a href="https://github.com/MuriloKrominski"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></a>
 Prezados Senhores e Senhoras,
 
-Em janeiro de 2021, retorno ao Brasil depois de um período de dois anos e meio de desenvolvimento pessoal e profissional na Europa.<br>
+No final de janeiro de 2021, retorno ao Brasil depois de um período de dois anos e meio de desenvolvimento pessoal e profissional na Europa.<br>
 Estou em busca de um novo desafio profissional, e por acreditar que minhas experiências, perfil e formação possam ser relevantes, especialmente neste momento de tantas transições econômicas, eu gostaria de apresentar-lhes alguns dos principais modos em que poderei vir colaborar com os objetivos da vossa organização.
 
 Nos últimos anos eu vivi no maior polo tecnológico da Itália, e nas duas principais cidades de Portugal.
