@@ -37,7 +37,7 @@
 ## Apresentação de Murilo Krominski: <a href="https://github.com/MuriloKrominski"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></a>
 Prezados Senhores e Senhoras,
 
-No final de janeiro de 2021, retorno ao Brasil depois de um período de dois anos e meio de desenvolvimento pessoal e profissional na Europa.<br>
+No final de janeiro de 2021, retornei ao Brasil depois de um período de dois anos e meio de desenvolvimento pessoal e profissional na Europa.<br>
 Estou em busca de um novo desafio profissional, e por acreditar que minhas experiências, perfil e formação possam ser relevantes, especialmente neste momento de tantas transições econômicas, eu gostaria de apresentar-lhes alguns dos principais modos em que poderei vir colaborar com os objetivos da vossa organização.
 
 Nos últimos anos eu vivi no maior polo tecnológico da Itália, e nas duas principais cidades de Portugal.
@@ -79,7 +79,7 @@ Murilo Krominski
 [![Acesso](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/15px-Google_Drive_logo.png)](http://bit.ly/31aSyqF) Curriculum Vitae simplificado em PDF via Google Drive: http://bit.ly/31aSyqF 
 
 Cidadanias Brasileira e Italiana | 31 anos. <br>
-Retorno ao Brasil em janeiro de 2021 | Atualmente vivendo em Paranhos, Porto, Portugal. <br>
+Acabo de retornar ao Brasil | Atualmente estou em Santo André, São Paulo. <br>
 Possuo <b>disponibilidade total para mudanças, inclusive internacionais</b>. <br>
 <a href="mailto:murilo.krominski@fgv.edu.br">murilo.krominski@fgv.edu.br</a> | 
 <a href="https://murilokrominski.github.io/">murilokrominski.github.io</a> | <a href="http://www.linkedin.com/in/murilokrominski">linkedin.com/in/murilokrominski</a> | <a href="https://wa.me/+351913169801">+351 913169801</a>
