@@ -85,11 +85,11 @@ Possuo <b>disponibilidade total para mudanças, inclusive internacionais</b>. <b
 <a href="https://murilokrominski.github.io/">murilokrominski.github.io</a> | <a href="http://www.linkedin.com/in/murilokrominski">linkedin.com/in/murilokrominski</a> | <a href="https://wa.me/+351913169801">+351 913169801</a>
 
 <h2>Objetivo:</h2>
-Resolver problemas, fazer bons negócios, reduzir custos, e otimizar processos; busco desafios executivos, administrativos, técnicos ou comerciais - disposto em analisar propostas, mudanças e viagens.
+Executivo Administrativo e Comercial | Engenheiro de Controle e Automação/Mecatrônica  | Cientista de Dados | Auditor de Qualidade | Planejamento e Controle com Inteligência Artificial e Machine Learning - aceito outras propostas.
 
 <h2>Perfil Profissional:</h2>
-Possuo aptidões para negócios, tecnologias, pessoas e processos; potencializadas por uma ampla formação, com algumas dezenas de certificações, integradas a práticas profissionais em todos os departamentos de uma empresa. 
-Atualizado com as últimas tecnologias e métodos em Business Intelligence, e o mais moderno em Indústria 4.0 e IoT. 
+Possuo aptidões para negócios, tecnologias, pessoas e processos; potencializadas por ampla experiência e formação, com dezenas de certificações relacionadas a práticas profissionais em todos os departamentos de uma empresa. 
+Hábil com as últimas tecnologias e métodos em Business Intelligence, Inovação, Ciência de Dados, Indústria 4.0 e IoT. 
 
 <h2>Escolaridade (compêndio com as principais): </h2>
 •	<b>Especialização - Administração de Empresas (lato sensu): </b> 
@@ -110,10 +110,10 @@ Colégio Pentágono, Santo André, São Paulo, Brasil: 2005 - 2008.
 <h2>Idiomas:</h2>
 <b>Português</b> (fluente C2), <b>Italiano</b> (proficiente C1), <b>Inglês</b> (avançado B2, em breve C1), <b>Espanhol</b> (intermediário B1).
 
-<h2>Principais Certificações e Licenças (compêndio com as principais): </h2>
+<h2>Principais Certificações e Licenças (compêndio com as principais):</h2>
 <b>Auditoria / Consultoria / Gestão de Qualidade:</b> 5W2H; APQP (Planeamento Avançado da Qualidade do Produto); Estatística; FMEA (Análise de Modo e Efeitos de Falha Potencial); FTA; ISO 9001; ISO/TS 16949; Kaisen; LLC; MSA (Análise dos Sistemas de Medição); QRQC-PDCA-SDCA-FTA (Resposta Rápida do Controle de Qualidade da Valeo). <br><br>
 
-<b>Automação / Controle / Engenharia / Inteligência de Dados / Linguagens de Máquinas:</b> Python, Data Science, Machine Learning, Inteligência Artificial, BigData. Cloud, Containers, Arduíno; Assembly (MPLAB Microchips PIC); C++; Ladder (PLC); Rede de Petri; Macros e VBA (Excel); Object Pascal (Delphi); UserRPL / SysRPL.<br>
+<b>Automação / Controle / Engenharia / Inteligência de Dados / Linguagens de Máquinas:</b> Data Science; Power BI; Python; Machine Learning, Inteligência Artificial, BigData; Cloud; Containers; Arduíno; Assembly (MPLAB Microchips PIC); C++; Ladder (PLC); Rede de Petri; Macros e VBA (Excel); Object Pascal (Delphi); UserRPL / SysRPL.<br>
 
 <b>Gestão de Negócios / Legal / Logística / Marketing / Recursos Humanos / Vendas:</b> Calculadora Financeira HP 12C; Dropshipping; Economia; Gerenciamento de Projetos Valeo / Processos Administrativos e Produtivos; Marketing Digital by Google Italy (credenciado IAB Europe); Modernização Administrativa em Recursos Humanos; Patentes e Bases; Planeamento / Gestão de Vendas; Power Searching with Google; Reforma Ortográfica BR/PT; Vendedor Profissional.<br>
 
@@ -126,7 +126,7 @@ Desenvolvimento e aplicação de estratégias comerciais (individuais e coletiva
 <b>•	Consultor Imobiliário, RE/MAX</b>, Portugal, 11/2019 - 11/2020.<br>
 Estudos de Mercado; Qualificação de imóveis, pessoas e negócios; Planos de Marketing Estratégico de ampla difusão; Animação computadorizada; Negociação e contratos com clientes e/ou parceiros (Confidencial Imobiliário, Google Earth Engine, Idealista, MAXFINANCE, Melom Obras, OEC, REATIA); I.A; Robôs de Dados; Vendas e Arrendamentos, etc. <br>
 
-<b>•	Consultor de Marketing e Investimentos, Pra Toda Mulher/InvestidorEmPortugal</b>, Presencial e/ou Virtual, 08/2013 - 11/2020. <br>
+<b>•	Consultor de Marketing e Investimentos, Pra Toda Mulher/InvestidorEmPortugal</b>, Brasil/Itália/Portugal, 08/2013 - 11/2020. <br>
 Cases de Sucesso com 4.5M de inscritos; Canal de investimentos em Portugal; Autor de “Estratégias do Marketing 3.0”, pela FGV; free-lancer, etc. <br>
 
 <b>•	Gerente Administrativo, Novidades Modas - Fashion Store</b>, SP, Brasil, 01/2014 - 07/2018. <br>
