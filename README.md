@@ -31,7 +31,7 @@
 <a href="https://murilokrominski.github.io"><img alt="" src="https://img.shields.io/badge/Repositórios%3A-Murilo%20Krominski-green"></a>
 
 ## Apresentação de Murilo Krominski: <a href="https://github.com/MuriloKrominski"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></a>
-Prezados Senhores e Senhoras,
+Prezados(as) Senhores(as),
 
 Em 2021, retornei ao Brasil depois de um período de dois anos e meio de desenvolvimento pessoal e profissional na Europa.<br>
 Estou em busca de um novo desafio profissional, e por acreditar que minhas experiências, perfil e formação possam ser relevantes, especialmente neste momento de tantas transições econômicas, eu gostaria de apresentar-lhes alguns dos principais modos em que poderei vir colaborar com a empresa que contratar os meus serviços, segundo os objetivos da organização.
