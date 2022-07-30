@@ -30,6 +30,7 @@
 ## Repositório β(público):
 <a href="https://murilokrominski.github.io"><img alt="" src="https://img.shields.io/badge/Repositórios%3A-Murilo%20Krominski-green"></a>
 
+
 ## Apresentação de Murilo Krominski: <a href="https://github.com/MuriloKrominski"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></a>
 Prezados(as) Senhores(as),
 
@@ -41,7 +42,7 @@ Neste período, tenho participado de eventos por grandes empresas, como IBM, Goo
 
 Tenho domínio sobre as mais recentes e avançadas técnicas e ferramentas para transformação de dados brutos em informações significativas, algo imprescindível para tomadas de decisões importantes de forma efetiva, segura e bem fundamentada, além de poder identificar, monitorar, desenvolver, e até mesmo criar novas oportunidades internas e de estratégias de negócios com vantagem competitiva e estabilidade a longo prazo para o vosso negócio.
 
-Além de ser cidadão Brasileiro, eu também conquistei o reconhecimento de uma cidadania europeia, no caso a Italiana (uma das melhores do mundo no âmbito de possuir livre acesso a outros países), também consegui o reconhecimento de diversas certificações, além das quais eu obtive nesse período, como pela Google Itália.
+:brazil: :it:Além de ser cidadão Brasileiro, eu também conquistei o reconhecimento de uma cidadania europeia, no caso a Italiana (uma das melhores do mundo no âmbito de possuir livre acesso a outros países), também consegui o reconhecimento de diversas certificações, além das quais eu obtive nesse período, como pela Google Itália.
 
 Participei do desenvolvimento de aplicações em maratonas para empresas como: Cocamar, Uninassau, Fiap, Algar Tech, Tecban, Saint Paul & LIT, TNT e Fiat Chrysler Automobiles. Usando algumas das tecnologias mais disruptivas do mercado como Inteligência Artificial, BigData, Ciência de Dados, Cloud, Visual Recognition, Machine Learning, Containers e IoT.
 
