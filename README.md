@@ -1,31 +1,7 @@
-<p align="center">
-  <a href="https://github.com/MuriloKrominski">
-    <img align="center" width="280" src="signature.png" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/MuriloKrominski">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloKrominski&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/MuriloKrominski">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=MuriloKrominski&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
-  </a>
-</p>
-
-[![Linkedin: Murilo Krominski](https://img.shields.io/badge/-Murilo_Krominski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilokrominski/)](https://www.linkedin.com/in/murilokrominski/)
-[![Microsoft Badge](https://img.shields.io/badge/-murilo.krominski@fgv.edu.br-blue?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:murilo.krominski@fgv.edu.br)](mailto:murilo.krominski@fgv.edu.br)
-[![Gmail Badge](https://img.shields.io/badge/-murilokr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murilokr@gmail.com)](mailto:murilokr@gmail.com)
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/murilokrominskisvg?style=social&label=%40murilokrominski)](https://twitter.com/murilokrominski)
-<a href="https://wa.me/+5511911033319"><img alt="" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="20"></a>
 <a href="https://t.me/murilokrominski"><img alt="" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="20"></a>
+<a href="https://wa.me/+5511911033319"><img alt="" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="20"></a>
+[![Gmail Badge](https://img.shields.io/badge/-murilokr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murilokr@gmail.com)](mailto:murilokr@gmail.com)
+[![Linkedin: Murilo Krominski](https://img.shields.io/badge/-Murilo_Krominski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilokrominski/)](https://www.linkedin.com/in/murilokrominski/)
 
 ## Repositório β(público):
 <a href="https://murilokrominski.github.io"><img alt="" src="https://img.shields.io/badge/Repositórios%3A-Murilo%20Krominski-green"></a>
