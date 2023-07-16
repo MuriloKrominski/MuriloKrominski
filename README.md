@@ -71,4 +71,3 @@ Vamos fazer bons negócios juntos?
 Atenciosamente,
 
 Murilo Krominski
-```
