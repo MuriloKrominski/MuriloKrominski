@@ -38,9 +38,13 @@ Conhecimentos e experiências que me permitem compreender as transformações pr
 
 É importante ressaltar que sou cidadão brasileiro e também possuo cidadania italiana, o que me proporciona livre acesso a outros países. Obtive reconhecimento de diversas certificações, em destaque uma pela Google Itália. Participei do desenvolvimento de aplicações para empresas como Cocamar, Uninassau, Fiap, Algar Tech, Tecban, Saint Paul & LIT, TNT e Fiat Chrysler Automobiles, utilizando tecnologias disruptivas do mercado, como Inteligência Artificial, BigData, Ciência de Dados, Cloud, Visual Recognition, Machine Learning, Containers e IoT.
 
-Atualmente continuo me inteirando com profundidade nessas e em outras váriaveis, tenho trabalhado em projetos próprios, projetos famíliares, e projetos co-participativos. 
-
 Sou um executivo administrativo/de inteligência de negócios, engenheiro de automação/robótica, cientista de dados, desenvolvedor de inteligências artificiais, especialista em qualidade, mentor voluntário, escritor, astrônomo e filósofo nas horas livres.
+
+Atualmente continuo me inteirando com profundidade nessas e em outras váriaveis e tenho trabalhado em projetos próprios, projetos famíliares, e projetos co-participativos. Realizo Consultorias Executivas Personalizadas, Presencial e/ou Virtual, a nivél Mundial, onde descubro problemas e apresento soluções, sejam em Inteligência de Negócios, Gestão Financeira, Marketing 5.0(com trabalho pela FGV em atualização), Organização de algum departamento à metodologias expecificas, Pesquisas em àreas estratégicas com Machine Learning e Inteligencia Artificial, ou até outro tipo de atividade Frelancer correlata. Com destaque à trabalhos como pesquisas e criação de Dossiê Técnico sobre Áreas de Investimento em Portugal, com Estudo de Mercado Completo feito em Data Science, com dados auditados e validados pelo "CI", panorama sobre variáveis e caracteristicas sócio demográficas, com direito a mapeamentos e videos.
+
+Sou proprietário de grupos de marketing de redes, que obtive baseados em estudos autorais próprios de marketing e vendas através da criação de valor, pela FGV, fiz chegarem até 4.5 Milhões de inscritos.
+
+Estou apto a resolver problemas e estabelecer negócios de sucesso. Busco parcerias nas áreas administrativa, comercial, executiva ou técnica, onde possa contribuir com minhas habilidades e afinidades em atividades organizacionais e estratégicas.
 
 Possuo aptidões para negócios, tecnologias, pessoas e processos; potencializadas por uma ampla formação, com mais de 500 certificações(parei de contar pois são anos fazendo cursos ininterruptamente), e somadas com práticas profissionais que englobam todos os departamentos de uma empresa.
 Aprendo muito rapidamente qualquer coisa, não importando a área!
@@ -62,79 +66,7 @@ Ao sair da Europa, tive de me desligar dos cargos de Gestor Comercial / Gestor d
 
 Quanto aos meus idiomas, posso citar o Português (fluente C2), Italiano (proficiente C1), Inglês (avançado B2, em breve C1), Espanhol (intermediário B1); tenho trabalhos em outras linguas, como por exemplo um trabalho de recuperação de textos antigos e tradução para outras linguas com Inteligências Artificiais.
 
-
-
-
-Hoje eu também realizo Consultorias Executivas Personalizadas, Presencial e/ou Virtual, a nivél Mundial, onde descubro problemas e apresento soluções, sejam em Inteligência de Negócios, Gestão Financeira, Marketing 5.0(com trabalho pela FGV em atualização), Organização de algum departamento à metodologias expecificas, Pesquisas em àreas estratégicas com Machine Learning e Inteligencia Artificial, ou até outro tipo de atividade Frelancer correlata. Com destaque à trabalhos como pesquisas e criação de Dossiê Técnico sobre Áreas de Investimento em Portugal, com Estudo de Mercado Completo feito em Data Science, com dados auditados e validados pelo "CI", panorama sobre variáveis e caracteristicas sócio demográficas, com direito a mapeamentos e videos.
-
-Sou proprietário de grupos de marketing de redes, que obtive baseados em estudos autorais próprios de marketing e vendas através da criação de valor, pela FGV, fiz chegarem até 4.5 Milhões de inscritos.
-
-Estou apto a resolver problemas e estabelecer negócios de sucesso. Busco parcerias nas áreas administrativa, comercial, executiva ou técnica, onde possa contribuir com minhas habilidades e afinidades em atividades organizacionais e estratégicas.
-
-
-
-
-
-
-
-
-
-Tenho conhecimentos bem amplos e diversificados.
-
-Em Auditoria / Consultoria / Gestão de Qualidade:
-- 5W2H;
-- APQP(Planeamento Avançado da Qualidade do Produto);
-- Estatística;
-- FMEA(Análise de Modo e Efeitos de Falha Potencial);
-- FTA;
-- ISO 9001;
-- ISO/TS 16949;
-- Kaisen;
-- LLC;
-- MSA(Análise dos Sistemas de Medição);
-- QRQC-PDCA-FTA(Resposta Rápida do Controle de Qualidade da Valeo).
-
-Em Automação / Controle / Engenharia / Inteligência de Dados / Linguagens de Máquinas:
-- Arduíno;
-- Assembly(MPLAB Microchips PIC);
-- BigData;
-- C++;
-- Cloud;
-- Containers;
-- Data Science;
-- Inteligência Artificial;
-- IoT;
-- Ladder(PLC);
-- Machine Learning;
-- Macros/VBA(Excel);
-- Matlab;
-- Delphi;
-- Power BI;
-- Projetos com IBM Cloud;
-- Python;
-- Rede de Petri;
-- User/SysRPL.
-
-Em Gestão de Negócios / Legal / Logística / Marketing / Recursos Humanos / Vendas:
-- Calculadoras HP 50G/12C;
-- Economia;
-- Dropshipping;
-- Gerenciamento de Projetos/Processos Administrativos e Produtivos by Valeo;
-- Marketing Digital by Google Italy(credenciado IAB Europe);
-- Modelagem Matemática Financeira;
-- Modernização Administrativa em RH;
-- Gestão de Vendas;
-- Patentes e Bases Legais;
-- Power Searching with Google;
-- Reforma Ortográfica;
-- Vendedor Profissional.
-
-Cursando:
-- Financial Analyst Training, Investing and Master of Business Administration Course com Chris Haroun;
-- Modern Deep Learning/Convolutional Neural Networks;
-- Database Management Systems - MySQL DATAhill Solutions.
-
-Apto a resolver problemas e fazer bons negócios.
+Vamos fazer bons negócios juntos?
 
 Atenciosamente,
 
