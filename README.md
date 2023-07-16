@@ -1,23 +1,38 @@
-<a href="https://t.me/murilokrominski"><img alt="" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="20"></a>
-<a href="https://wa.me/+5511911033319"><img alt="" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="20"></a>
-[![Gmail Badge](https://img.shields.io/badge/-murilokr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murilokr@gmail.com)](mailto:murilokr@gmail.com)
-[![Linkedin: Murilo Krominski](https://img.shields.io/badge/-Murilo_Krominski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilokrominski/)](https://www.linkedin.com/in/murilokrominski/)
+# Hello World <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-## Repositório β(público):
-<a href="https://murilokrominski.github.io"><img alt="" src="https://img.shields.io/badge/Repositórios%3A-Murilo%20Krominski-green"></a>
-
-
-## Apresentação de Murilo Krominski: <a href="https://github.com/MuriloKrominski"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></a>
-
-Se você quiser ser meu parceiro comercial, investidor ou é um empreendedor visionário, eu gostaria de conversar contigo, e quem sabe venhamos a nos juntar na criação de uma Start-Up de sucesso internacional.
-
-Tenho dois grandes projetos, um na área de tecnologia agrícola e outro relacionado a área médica/genética; estou disposto em analisar propostas/projetos diferentes.
+### PARCERIAS: 
+Deseja se tornar meu parceiro comercial ou investidor?<br>
+Detém alguma solução ou projeto de Start-Up?<br>
+Vamos conversar e tranformar idéias em sucessos internacionais!
 
 ---
 
-# Prezados Senhores,
+### CONTATO:
+<a href="https://t.me/murilokrominski"><img alt="" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="20"></a>
+<a href="https://wa.me/+5511911033319"><img alt="" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="20"></a>
+[![Gmail Badge](https://img.shields.io/badge/-murilokr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murilokr@gmail.com)](mailto:murilokr@gmail.com)
 
-Em 2021, retornei ao Brasil após um período de dois anos e meio dedicado intensamente ao meu desenvolvimento pessoal e profissional na Europa, e tenho trabalhado em projetos próprios e em projetos de pequenas parcerias.
+---
+
+### REDES SOCIAIS:
+<a href="https://www.threads.net/@murilokrominski"><img alt="" src="https://simpleicons.org/icons/threads.svg" height="15">[Threads]</a> 
+<a href="https://www.instagram.com/murilokrominski"><img alt="" src="https://simpleicons.org/icons/instagram.svg" height="15">[Instagram]</a> 
+<a href="https://www.linkedin.com/in/murilokrominski"><img alt="" src="https://simpleicons.org/icons/linkedin.svg" height="15">[LinkedIn]</a> 
+
+---
+
+### REPOSITÓRIO β(PÚBLICO):
+<a href="https://github.com/MuriloKrominski"><img alt="" src="https://img.shields.io/badge/Repositórioo%20β(público)%3A-Fechado Temporáriamente-red"></a>
+
+---
+
+### APRESENTAÇÃO PESSOAL: 
+
+Prezados Senhores,
+
+
+
+Em 2021, retornei ao Brasil após um período de dois anos e meio de dedicação intensa ao meu desenvolvimento pessoal e profissional na Europa; e desde então tenho trabalhado em projetos próprios e em projetos de pequenas parcerias.
 
 Sou um Executivo Administrativo e de Inteligência de Negócios, Engenheiro de Automação, Cientista de Dados, Desenvolvedor de Inteligências Artificiais, Especialista em Qualidade, e Filósofo nas horas livres.
 
