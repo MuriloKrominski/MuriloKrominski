@@ -1,24 +1,163 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Murilo Krominski</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        .tag-cloud {
+            width: 80%;
+            margin: 0 auto;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 15px;
+        }
+        .tag {
+            display: inline-block;
+            padding: 5px 10px;
+            margin: 5px;
+            font-size: 1.2em;
+            color: #333;
+            background-color: #f0f0f0;
+            border-radius: 5px;
+            transition: transform 0.2s;
+        }
+        .tag:hover {
+            transform: scale(1.2);
+        }
+        /* Diferentes tamanhos para as palavras-chave */
+        .tag-small { font-size: 0.9em; }
+        .tag-medium { font-size: 1.2em; }
+        .tag-large { font-size: 1.5em; }
+        .tag-xlarge { font-size: 2em; }
+    </style>
+</head>
+<body>
+    <h1>Nuvem de Palavras-chave</h1>
+    <div class="tag-cloud">
+        <span class="tag tag-large">👨🏻‍💼 Gestão Empresarial</span>
+        <span class="tag tag-medium">🤖 Engenharia Robótica</span>
+        <span class="tag tag-xlarge">🧠 Inteligência Artificial</span>
+        <span class="tag tag-large">📊 Ciência de Dados</span>
+        <span class="tag tag-medium">📚 500+ Certificações</span>
+        <span class="tag tag-small">🎓 Especialização em Gestão</span>
+        <span class="tag tag-small">🧬 INTJ (MBTI)</span>
+        <span class="tag tag-medium">🛬 Santo André (SP)</span>
+        <span class="tag tag-large">✈️ Mobilidade Internacional</span>
+        <span class="tag tag-small">💼 Trabalhos Fixos ou Projetos</span>
+        <span class="tag tag-small">🏢 Presencial, Remoto ou Híbrido</span>
+        <span class="tag tag-small">💳 Transferências Internacionais</span>
+        <span class="tag tag-medium">🌍 Experiência Internacional</span>
+        <span class="tag tag-medium">🔧 Indústria 4.0</span>
+        <span class="tag tag-large">📈 Big Data</span>
+        <span class="tag tag-large">☁️ Cloud Computing</span>
+        <span class="tag tag-medium">🤖 Machine Learning</span>
+        <span class="tag tag-medium">🛠️ Consultoria Executiva</span>
+        <span class="tag tag-medium">🔬 Pesquisa Estratégica</span>
+        <span class="tag tag-small">🚀 Tecnologias Disruptivas</span>
+        <span class="tag tag-small">💡 Soluções Inovadoras</span>
+        <span class="tag tag-medium">🏅 Certificação Internacional</span>
+        <span class="tag tag-small">💬 Idiomas</span>
+        <span class="tag tag-small">📜 Passaportes Brasileiro e Italiano</span>
+        <span class="tag tag-small">🌐 Acesso a 89% dos países</span>
+        <span class="tag tag-small">📧 Consultoria Global</span>
+        <span class="tag tag-medium">💡 Tecnologias Emergentes</span>
+        <span class="tag tag-medium">🔍 Pesquisa com Machine Learning</span>
+        <span class="tag tag-medium">📊 Business Intelligence</span>
+        <span class="tag tag-medium">⚙️ Engenharia de Automação</span>
+        <span class="tag tag-small">📚 Formação em Mecatrônica</span>
+        <span class="tag tag-small">🔬 Microchips e Processadores</span>
+        <span class="tag tag-medium">🧠 Integração de Tecnologias</span>
+        <span class="tag tag-small">🌐 Dinâmicas Geopolíticas</span>
+        <span class="tag tag-small">💻 Computação em Nuvem</span>
+        <span class="tag tag-small">📦 Containers</span>
+        <span class="tag tag-small">📡 Internet das Coisas (IoT)</span>
+        <span class="tag tag-small">📈 Marketing 5.0</span>
+        <span class="tag tag-small">📖 Escritor</span>
+        <span class="tag tag-small">📜 Hackathons</span>
+        <span class="tag tag-medium">🧠 Inteligência de Negócios</span>
+        <span class="tag tag-medium">🛠️ Soluções Empresariais</span>
+        <span class="tag tag-medium">🌟 Inovação Tecnológica</span>
+        <span class="tag tag-small">🏛️ Participação em Eventos Globais</span>
+        <span class="tag tag-medium">🔗 Colaboração com Grandes Empresas</span>
+    </div>
+</body>
+</html>
+
 # Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 ## Murilo Krominski por aqui.
+<img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brasil" width="20" height="13"><img src="https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg" alt="Itália" width="20" height="13">Cidadão Brasileiro e Italiano
+👨🏻‍💼Gestão Empresarial
+🤖Engenharia Robótica
+🧠Inteligência Artificial
+📊Ciência de Dados
+📚500+ Certificações
+🎓Especialização em Gestão
+🧬INTJ (MBTI)
+🛬Santo André (São Paulo, Brasil)[atualmente]
+✈️Mobilidade Internacional
+💼Trabalhos Fixos ou Projetos
+🏢Presencial, Remoto ou Híbrido
+💳Transferencias Internacionais
+🌍Experiência Internacional
+🏛️Economia dos 80% / Grande Reset
+🔧Indústria 4.0 / Smart Manufacturing
+📈Big Data
+☁️Cloud Computing
+🤖Machine Learning
+🛠️Consultoria Executiva
+🔬Pesquisa Estratégica
+🚀Tecnologias Disruptivas
+💡Soluções Inovadoras
+🏅Certificação Internacionais
+💬Idiomas
+📜Passaportes Brasileiro e Italiano
+🌐Acesso direto a 89% dos países
+📧Consultoria Global
+💡Tecnologias Emergentes
+🔍Pesquisa Estratégica com Machine Learning
+📊Business Intelligence
+🏭Indústria 4.0
+🏢Gestão de Processos
+⚙️Engenharia de Controle e Automação
+📚Formação Técnica em Mecatrônica
+🔬Microchips e Microprocessadores
+🧠Integração de Tecnologias com Gestão
+🌐Dinâmicas Geopolíticas
+💻Tecnologias de Computação em Nuvem
+📦Containers
+📡Internet das Coisas (IoT)
+📈Marketing 5.0
+📖Escritor
+📜Hackathons
+🧠Inteligência de Negócios
+🛠️Soluções Empresariais
+🌟Inovação Tecnológica
+🏛️Participação em Eventos Globais
+🔗Colaboração com Grandes Empresas
+
+
+
 
 ### PARCERIAS: 
 Possui alguma grande ideia, uma solução disruptiva ou Start-Up?<br>
-Vamos conversar e transformar ideias e projetos visionários em sucessos internacionais através de parcerias e estratégias personalizadas!
+Fale comigo, e vamos transformar ideias e projetos visionários em sucessos internacionais!
 
 ---
 
 ### CONTATO:
-<a href="https://t.me/murilokrominski"><img alt="" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="20"></a>
-<a href="https://wa.me/+5511970388634"><img alt="" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="20"></a>
-[![Gmail Badge](https://img.shields.io/badge/-murilokr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murilokr@gmail.com)](mailto:murilokr@gmail.com)
-
----
-
-### REDES SOCIAIS:
-<a href="https://www.threads.net/@murilokrominski"><img alt="" src="https://simpleicons.org/icons/threads.svg" height="15"> [Threads]</a> 
-<a href="https://www.instagram.com/murilokrominski"><img alt="" src="https://simpleicons.org/icons/instagram.svg" height="15"> [Instagram]</a> 
-<!-- <a href="https://www.linkedin.com/in/murilokrominski"><img alt="" src="https://simpleicons.org/icons/linkedin.svg" height="15"> [LinkedIn]</a> -->
-
+<a href="https://t.me/murilokrominski"><img alt="" src="https://img.shields.io/badge/Telegram-1D9BF0?style=for-the-badge&logo=telegram&logoColor=E5F3FF" height="20"></a>
+<a href="https://wa.me/+5511970388634"><img alt="" src="https://img.shields.io/badge/WhatsApp-22BB78?style=for-the-badge&logo=whatsapp&logoColor=E8F6EE" height="20"></a>
+<a href="https://www.threads.net/@murilokrominski"><img alt="" src="https://img.shields.io/badge/Threads-565656?style=for-the-badge&logo=threads&logoColor=D8D8D8" height="20"></a>
+<a href="https://www.instagram.com/murilokrominski"><img alt="" src="https://img.shields.io/badge/Instagram-D74476?style=for-the-badge&logo=instagram&logoColor=FCE3EC" height="20"></a>
+<a href="mailto:murilokr@gmail.com"><img alt="" src="https://img.shields.io/badge/Gmail-DC4E41?style=for-the-badge&logo=gmail&logoColor=FDEAE8" height="20"></a>
+<!-- <a href="https://www.linkedin.com/in/murilokrominski"><img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=DCEEF7" height="20"></a> -->
 ---
 
 ### REPOSITÓRIO β(PÚBLICO):
@@ -29,10 +168,11 @@ Vamos conversar e transformar ideias e projetos visionários em sucessos interna
 
 ### MOBILIDADE INTERNACIONAL/PAGAMENTOS:
 <ul>
-  <li>Reconhecido cidadão Brasileiro e Italiano, com ambos os passaportes.</li>
-  <li>178 Pontos de Mobilidade Pessoal (3ª melhor do mundo em 2024).</li>
+  <li>Cidadão Brasileiro e Italiano, com ambos os passaportes.</li>
+  <li>178 Pontos de Mobilidade Pessoal Internacional (3ª melhor do mundo em 2024).</li>
   <li>Acesso à 89% dos países do mundo de forma rápida e direta.</li>
-  <li>Aceito trabalhos remotos.</li>
+  <li>Atualmente estou em <b>Santo André, São Paulo, Brasil</b>. </li>
+  <li>Estou disponível para trabalhos fixos ou por projetos, seja de forma presencial, remota, híbrida, com ou sem necessidade de viagens ou mudanças nacionais/internacionais.</li>
 </ul>
 
 <a href="https://www.passportindex.org/improve.php?p1=it&p2=br" target="_blank">
@@ -43,15 +183,14 @@ Atualmente Aceito Transferências:
 <ul>
   <li>Brasil: TED, DOC ou PIX.</li>
   <li>Alemanha, Itália e Portugal: IBAN e SWIFT/BIC.</li>
+  <li>Estados Unidos: Routing Number.</li>
   <li>Mundo: Bitcoin.</li>
-  <br>
-  <li>Estados Unidos: Routing Number. [Em breve]</li>
 </ul>
 
 ---
 
 ### APRESENTAÇÃO PESSOAL:
-Expert em inovação tecnológica, tecnologias disruptivas, pricipalmente em robótica e inteligência artificial e gestão de negócios e processos.
+Expert em inovação tecnológica, tecnologias disruptivas, pricipalmente em robótica, inteligência artificial e gestão de negócios/processos.
 
 ---
 
@@ -60,7 +199,7 @@ Estou no Brasil desde o final de 2021, após dois anos e meio dedicados profunda
 
 Durante minha estadia em importantes polos tecnológicos, principalmente na Itália e em Portugal, participei de trabalhos e eventos realizados por empresas como IBM, Google, Relayr, DriverlessAI (H2OAI), Logoplaste, Erising, ManpowerGroup, NOX, RE/MAX, Freguesia de Paranhos - Porto, além de instituições como o World Economic Forum e o C4IR.
 
-Toda essa experiência me proporcionou conhecimentos e vivências que me capacitaram a compreender as profundas transformações do cenário mundial, além de conceitos como Economia dos 80%, o Grande Reset, inteligência artificial, o caminho do dinheiro e transformações pelas CBDC's, tecnologias emergentes, tendências globais, as dinâmicas geopolíticas e integração de novas tecnologias com metodologias de gestão, como Smart Manufacturing, Business Intelligence e Indústria 4.0.
+Toda essa experiência me proporcionou conhecimentos e vivências que me capacitaram a compreender as profundas transformações do cenário mundial, além de conceitos como Economia dos 80%, o Grande Reset, inteligência artificial, o caminho do dinheiro e as transformações mundiais que serão geradas pelas CBDC's, tecnologias emergentes, tendências globais, dinâmicas geopolíticas e integração de novas tecnologias com metodologias de gestão, como Smart Manufacturing, Business Intelligence e Indústria 4.0.
 
 ---
 
@@ -69,7 +208,7 @@ Minha formação acadêmica inclui:
 - Especialização em Administração de Empresas pela FGV (Fundação Getúlio Vargas).
 - Graduação em Engenharia de Controle e Automação, com registro no CREA.
 - Formação técnica em Mecatrônica Industrial.
-- Formação técnica em Microchips.
+- Formação técnica em Microchips/Microprocessadores.
 
 Minha formação é complementada por mais de 500 certificações, abrangendo áreas como qualidade, informática, marketing e finanças.
 
@@ -86,6 +225,7 @@ Ao longo da minha trajetória, atuei em diversos papéis, como:
 - Cientista de dados.
 - Desenvolvedor de inteligência artificial.
 - Especialista em qualidade.
+- Trabalhos pontuais, como de tradução arqueológica computadorizada, novo método de 
 
 Trabalhei em empresas como Cocamar, Uninassau, Fiap, Algar Tech, Tecban, Saint Paul & LIT, TNT e Fiat Chrysler Automobiles, utilizando tecnologias como inteligência artificial, big data, cloud computing, machine learning, containers e IoT.
 
@@ -128,15 +268,8 @@ Também realizo trabalhos de tradução e recuperação de textos antigos utiliz
 
 ---
 
-### MOBILIDADE INTERNACIONAL:
-- Cidadão brasileiro e italiano, com ambos os passaportes.
-- Acesso facilitado a 89% dos países do mundo.
-
 <!--
 ### APRESENTAÇÃO PESSOAL: 
-
-Sou expert em Inovação Tecnológica, Técnologias disruptivas com as últimas tenligadas a Robotica e Inteligência Artificial, tecnologias e gestão, 
-negócios, tecnologias, pessoas e processos
 
 Em 2021, retornei ao Brasil após passar pouco mais de dois anos e meio dedicado ao meu desenvolvimento pessoal e profissional na Europa.
 
