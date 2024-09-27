@@ -50,7 +50,7 @@ Fale comigo, e vamos transformar ideias e projetos visionários em sucessos inte
 - Italiano: Proficiência (C1).
 - Inglês: Avançado (B2, em breve C1).
 - Espanhol: Intermediário (B1).
-- Se eu tiver acesso a meu computador, me comunico com proficiência em qualquer idioma, em tempo real.
+- Com acesso a um computador, me comunico com proficiência em qualquer idioma do mundo.
 
 #### 💬Comunicação Multicultural:
 - Minha capacidade de adaptação e comunicação multicultural faz de mim um facilitador em equipes globais, e antes mesmo da inteligência artificial se consolidar para praticamente eliminar os obstáculos na comunicação global, eu já obtia excelentes interações internacionais, mesmo em contextos de idiomas desconhecidos.
