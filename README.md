@@ -50,21 +50,17 @@ Fale comigo, e vamos transformar ideias e projetos visionários em sucessos inte
 - Italiano: Proficiência (C1).
 - Inglês: Avançado (B2, em breve C1).
 - Espanhol: Intermediário (B1).
+- Se eu tiver acesso a meu computador, me comunico com proficiência em qualquer idioma, em tempo real.
 
-💬Comunicação Multicultural:
-Excelência em interações internacionais, mesmo em contextos onde desconheço o idioma, através de soluções técnicas eficazes.
+#### 💬Comunicação Multicultural:
+- Minha capacidade de adaptação e comunicação multicultural faz de mim um facilitador em equipes globais, e antes mesmo da inteligência artificial se consolidar para praticamente eliminar os obstáculos na comunicação global, eu já obtia excelentes interações internacionais, mesmo em contextos de idiomas desconhecidos.
+- Lidei de forma eficaz de problemas internacionais de engenharia, qualidade, garantia, logistica e compras, principalmente no setor automotivo e químico, mas também em telecomunicações, por algumas empresas multinacionais, e para tal eu desenvolvi minhas próprias técnicas para me comunicar com profissionais de diferentes nacionalidades, solucionando grandes desafios em diversos idiomas como inglês, espanhol, chinês, francês e italiano.
+- Sem falar francês, na época eu desenvolvi um "Sistema Padrão de Garantia", "SPPC", que veio a se tornar padrão da matriz na França, e posteriormente nas Valeo de todo o mundo.
+- Minha expertise técnica em machine learning e OCR (Reconhecimento Óptico de Caracteres) também me permite realizar traduções precisas, até mesmo realizo trabalhos de textos arqueológicos e históricos, aplicando tecnologia de ponta para superar as barreiras linguísticas históricas mesmo de idiomas quase perdidos.
+- Em resumo, posso me comunicar eficazmente com qualquer parte do mundo. E, se houver a necessidade de aprender ou dominar um novo idioma, posso garantir que o farei de maneira rápida e eficiente.
 
-Minha trajetória profissional vai muito além das barreiras linguísticas. Antes mesmo da inteligência artificial se consolidar como ferramenta para praticamente eliminar obstáculos na comunicação global, eu desenvolvi minhas próprias técnicas para interagir com profissionais de diferentes nacionalidades, solucionando grandes desafios em idiomas que eu não dominava, como chinês, francês e italiano (este último, na época, sem conhecimento prévio).
-
-Essa abordagem prática foi fundamental, por exemplo, para resolver problemas complexos de qualidade e engenharia em uma empresa multinacional do setor automotivo, além de garantir uma gestão logística eficaz, navegando com sucesso por diferentes culturas e contextos linguísticos. Em outras empresas, atuei diretamente na resolução de questões cruciais e também fui responsável por compras internacionais, tudo em ambientes com idiomas estrangeiros.
-
-Hoje, minha expertise técnica em machine learning e OCR me permite realizar traduções precisas de textos arqueológicos e históricos, aplicando tecnologia de ponta para superar as barreiras linguísticas e entregar resultados altamente qualificados. Minha capacidade de adaptação e comunicação multicultural faz de mim um facilitador em equipes globais, sempre focado em eficiência, clareza e resultados concretos.
-
-Em resumo, posso me comunicar eficazmente com qualquer parte do mundo. E, se houver a necessidade de aprender ou dominar um novo idioma, posso garantir que o farei de maneira rápida e eficiente.
- 
-
-
-- 🧬 **INTJ (MBTI)**: Perfil de liderança estratégica, com foco em inovação, planejamento e execução.
+#### 🧬Análise Comportamental: Minha personalidade/perfil, de acordo com o método MBTI (Myers-Briggs Type Indicator), me classifica como INTJ.
+- Perfil altamente valorizado por indicar habilidades de análise crítica, planejamento e liderança estratégica, foco em inovação e abordagem orientada a resultados. 
 
 ---
 
