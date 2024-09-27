@@ -46,21 +46,22 @@ Fale comigo, e vamos transformar ideias e projetos visionários em sucessos inte
 ---
 
 ### IDIOMAS E SOFT SKILLS:
-- Português: Fluente (C2).
-- Italiano: Proficiência (C1).
-- Inglês: Avançado (B2, em breve C1).
-- Espanhol: Intermediário (B1).
-- Com acesso a um computador, me comunico com proficiência em qualquer idioma do mundo.
+- **Português**: Fluente (C2).
+- **Italiano**: Proficiência (C1).
+- **Inglês**: Avançado (B2, com progresso para C1).
+- **Espanhol**: Intermediário (B1).
+- **Alfabeto Fonético Internacional**: Desenvolvi um método utilizando o AFI para a transcrição fonética e leitura de qualquer idioma, garantindo a pronúncia correta.
+- **Competências Digitais**: Utilizando ferramentas tecnológicas que aperfeiçoei, possuo a capacidade de me comunicar com proficiência em qualquer idioma.
 
-#### 💬Comunicação Multicultural:
-- Minha capacidade de adaptação e comunicação multicultural faz de mim um facilitador em equipes globais, e antes mesmo da inteligência artificial se consolidar para praticamente eliminar os obstáculos na comunicação global, eu já obtia excelentes interações internacionais, mesmo em contextos de idiomas desconhecidos.
-- Lidei de forma eficaz de problemas internacionais de engenharia, qualidade, garantia, logistica e compras, principalmente no setor automotivo e químico, mas também em telecomunicações, por algumas empresas multinacionais, e para tal eu desenvolvi minhas próprias técnicas para me comunicar com profissionais de diferentes nacionalidades, solucionando grandes desafios em diversos idiomas como inglês, espanhol, chinês, francês e italiano.
-- Sem falar francês, na época eu desenvolvi um "Sistema Padrão de Garantia", "SPPC", que veio a se tornar padrão da matriz na França, e posteriormente nas Valeo de todo o mundo.
-- Minha expertise técnica em machine learning e OCR (Reconhecimento Óptico de Caracteres) também me permite realizar traduções precisas, até mesmo realizo trabalhos de textos arqueológicos e históricos, aplicando tecnologia de ponta para superar as barreiras linguísticas históricas mesmo de idiomas quase perdidos.
-- Em resumo, posso me comunicar eficazmente com qualquer parte do mundo. E, se houver a necessidade de aprender ou dominar um novo idioma, posso garantir que o farei de maneira rápida e eficiente.
+> #### 💬**Comunicação Multicultural**:
+> - Minha habilidade de adaptação e comunicação multicultural me torna um facilitador em equipes globais. Mesmo antes da consolidação da inteligência artificial para eliminar obstáculos na comunicação global, já obtinha excelentes interações internacionais, mesmo em contextos de idiomas desconhecidos.
+> - Lidei de forma eficaz com problemas internacionais de engenharia, qualidade, garantia, logística e compras, principalmente nos setores automotivo e químico, mas também em telecomunicações, em empresas multinacionais. Desenvolvi minhas próprias técnicas para me comunicar com profissionais de diferentes nacionalidades, solucionando grandes desafios em idiomas como inglês, espanhol, chinês, francês e italiano.
+> - Mesmo sem falar francês, desenvolvi um "Sistema Padrão de Garantia" (SPPC) em francês, que se tornou o padrão da matriz na França e, posteriormente, em todas as unidades da Valeo ao redor do mundo.
+> - Minha expertise em machine learning e OCR (Reconhecimento Óptico de Caracteres) também me permite realizar traduções precisas. Aplico tecnologia de ponta em textos arqueológicos e históricos, superando barreiras linguísticas até mesmo em idiomas quase extintos.
+> - Em resumo, posso me comunicar eficazmente com qualquer parte do mundo com o auxílio de tecnologia. Se houver a necessidade de aprender um novo idioma, faço isso de maneira rápida e eficiente.
 
-#### 🧬Análise Comportamental: Minha personalidade/perfil, de acordo com o método MBTI (Myers-Briggs Type Indicator), me classifica como INTJ.
-- Perfil altamente valorizado por indicar habilidades de análise crítica, planejamento e liderança estratégica, foco em inovação e abordagem orientada a resultados. 
+#### 🧬**Perfil Comportamental**:
+- Minha personalidade, de acordo com o método MBTI (Myers-Briggs Type Indicator), me classifica como INTJ, um perfil valorizado por indicar habilidades de pensamento e análise crítica, planejamento e liderança estratégica, autonomia, inovação, resolução de problemas e resultados.
 
 ---
 
