@@ -24,24 +24,47 @@ Fale comigo, e vamos transformar ideias e projetos visionários em sucessos inte
 
 ### MOBILIDADE INTERNACIONAL/PAGAMENTOS:
 <ul>
-  <li>Cidadão Brasileiro e Italiano, com ambos os passaportes.</li>
-  <li>178 Pontos de Mobilidade Pessoal Internacional (3ª melhor do mundo em 2024).</li>
-  <li>Acesso à 89% dos países do mundo de forma rápida e direta.</li>
-  <li>Atualmente estou em <b>Santo André, São Paulo, Brasil</b>. </li>
-  <li>Estou disponível para trabalhos fixos ou por projetos, seja de forma presencial, remota, híbrida, com ou sem necessidade de viagens ou mudanças nacionais/internacionais.</li>
+  <li><img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brasil" width="20" height="13"><img src="https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg" alt="Itália" width="20" height="13">Cidadão Brasileiro e Italiano, com ambos os passaportes.</li>
+  <li>🛂178 Pontos de Mobilidade Pessoal (3º melhor do mundo em 2024 com acesso à 89% dos países do mundo de forma rápida e direta).</li>
+  <li>📍Atualmente estou vivendo em <b>Santo André, São Paulo, Brasil.</li>
+  <li>🗺Tenho flexibilidade, experiência e facíl adaptabilidade para trabalhar globalmente</b>.</li>
+  <li>🌐Estou disponível para trabalhos fixos ou por projetos, seja de forma presencial, remota, híbrida, com ou sem necessidade de viagens ou mudanças nacionais/internacionais.</li>
 </ul>
 
 <a href="https://www.passportindex.org/improve.php?p1=it&p2=br" target="_blank">
     <img src="https://raw.githubusercontent.com/MuriloKrominski/MuriloKrominski/main/PersonalMobilityScore.png" alt="Personal Mobility Score" width="300px" />
 </a>
 
-Atualmente Aceito Transferências:
+💳Facilidade em lidar com pagamentos e transações internacionais, em conformidade com regulamentos globais:
 <ul>
-  <li>Brasil: TED, DOC ou PIX.</li>
-  <li>Alemanha, Itália e Portugal: IBAN e SWIFT/BIC.</li>
-  <li>Estados Unidos: Routing Number.</li>
-  <li>Mundo: Bitcoin.</li>
+  <li><img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brasil" width="20" height="13">Brasil: TED, DOC ou PIX.</li>
+  <li><img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" alt="Alemanha" width="20" height="13">Alemanha, <img src="https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg" alt="Itália" width="20" height="13">Itália e <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" alt="Portugal" width="20" height="13">Portugal: IBAN e SWIFT/BIC.</li>
+  <li><img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="Estados Unidos" width="20" height="13">Estados Unidos: Routing Number.</li>
+  <li>🌏Mundo: Bitcoin.</li>
 </ul>
+
+---
+
+### IDIOMAS E SOFT SKILLS:
+- Português: Fluente (C2).
+- Italiano: Proficiência (C1).
+- Inglês: Avançado (B2, em breve C1).
+- Espanhol: Intermediário (B1).
+
+💬Comunicação Multicultural:
+Excelência em interações internacionais, mesmo em contextos onde desconheço o idioma, através de soluções técnicas eficazes.
+
+Minha trajetória profissional vai muito além das barreiras linguísticas. Antes mesmo da inteligência artificial se consolidar como ferramenta para praticamente eliminar obstáculos na comunicação global, eu desenvolvi minhas próprias técnicas para interagir com profissionais de diferentes nacionalidades, solucionando grandes desafios em idiomas que eu não dominava, como chinês, francês e italiano (este último, na época, sem conhecimento prévio).
+
+Essa abordagem prática foi fundamental, por exemplo, para resolver problemas complexos de qualidade e engenharia em uma empresa multinacional do setor automotivo, além de garantir uma gestão logística eficaz, navegando com sucesso por diferentes culturas e contextos linguísticos. Em outras empresas, atuei diretamente na resolução de questões cruciais e também fui responsável por compras internacionais, tudo em ambientes com idiomas estrangeiros.
+
+Hoje, minha expertise técnica em machine learning e OCR me permite realizar traduções precisas de textos arqueológicos e históricos, aplicando tecnologia de ponta para superar as barreiras linguísticas e entregar resultados altamente qualificados. Minha capacidade de adaptação e comunicação multicultural faz de mim um facilitador em equipes globais, sempre focado em eficiência, clareza e resultados concretos.
+
+Em resumo, posso me comunicar eficazmente com qualquer parte do mundo. E, se houver a necessidade de aprender ou dominar um novo idioma, posso garantir que o farei de maneira rápida e eficiente.
+ 
+
+
+- 🧬 **INTJ (MBTI)**: Perfil de liderança estratégica, com foco em inovação, planejamento e execução.
 
 ---
 
@@ -114,11 +137,7 @@ Também realizo projetos próprios e co-participativos, com foco em soluções i
 
 ---
 
-### IDIOMAS:
-- Português: Fluente (C2).
-- Italiano: Proficiência (C1).
-- Inglês: Avançado (B2, em breve C1).
-- Espanhol: Intermediário (B1).
+
 
 Também realizo trabalhos de tradução e recuperação de textos antigos utilizando inteligência artificial.
 
@@ -158,16 +177,8 @@ Também realizo trabalhos de tradução e recuperação de textos antigos utiliz
 - 🏅 **Certificações Internacionais**: Certificações reconhecidas globalmente que validam minha expertise em diversas áreas.
 - 📜 **Hackathons**: Participação ativa em competições de inovação, com foco em desenvolvimento de soluções tecnológicas.
 
-## Experiência Internacional e Mobilidade
-- 🌍 **Experiência Internacional**: Participação e liderança em projetos globais, com uma visão multicultural e adaptabilidade.
-- ✈️ **Mobilidade Internacional**: Facilidade em trabalhar em qualquer país, com passaportes e documentação em ordem.
-- 📜 **Passaportes Brasileiro e Italiano**: Dupla cidadania, oferecendo flexibilidade para trabalhar globalmente.
-- 🌐 **Acesso a 89% dos países**: Capacidade comprovada de mobilidade global, facilitando viagens e negociações internacionais.
-- 💳 **Transferências Internacionais**: Experiência em lidar com pagamentos e transações internacionais, em conformidade com regulamentos globais.
 
-## Idiomas e Soft Skills
-- 💬 **Idiomas**: Português (C2), Italiano (C1), Inglês (B2), Espanhol (B1). Habilidades de comunicação multicultural para interações internacionais eficazes.
-- 🧬 **INTJ (MBTI)**: Perfil de liderança estratégica, com foco em inovação, planejamento e execução.
+
 
 ## Outros Diferenciais
 - 🧠 **Pesquisa com Machine Learning**: Pesquisa aplicada para inovações estratégicas em IA e automação.
