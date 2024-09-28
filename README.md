@@ -25,7 +25,7 @@ Fale comigo, e vamos transformar ideias e projetos visionários em sucessos inte
 - 📚**500+ Certificações** em áreas como tecnologia, administração, inovação, comportamento e outras especialidades técnicas.
 - 🏅**Certificações Internacionais** por Participações em eventos e cursos de grandes empresas de tecnologia, com foco em desenvolvimento e inovação, principalmente na Itália e Portugal.
 - 🧑‍💻**Participação em Hackathons, Meetups e Maratonas Dev Internacionais**.
-- 🌍**Intensivo Acadêmico e Profissional Internacional** – Experiência prática e imersiva em polos tecnológicos de renome na Europa, com ênfase no intercâmbio de conhecimento e na colaboração com especialistas e empresas de tecnologia de ponta.
+- 🌍**Intensivo Acadêmico e Profissional Internacional (2,6 anos)** – Experiência prática e imersiva em polos tecnológicos de renome na Europa, com ênfase no intercâmbio de conhecimento e na colaboração com especialistas e empresas de tecnologia de ponta.
 
 ---
 
@@ -33,7 +33,7 @@ Fale comigo, e vamos transformar ideias e projetos visionários em sucessos inte
 <ul>
   <li><img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brasil" width="20" height="13"><img src="https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg" alt="Itália" width="20" height="13">Cidadão Brasileiro e Italiano, com ambos os passaportes.</li>
   <li>🛂178 Pontos de Mobilidade Pessoal (3º melhor do mundo em 2024 com acesso à 89% dos países do mundo de forma rápida e direta).</li>
-  <li>📍Atualmente estou vivendo em <b>Santo André, São Paulo, Brasil.</li>
+  <li>📍Atualmente estou vivendo em <b>Santo André, São Paulo, Brasil</b>.</li>
   <li>🗺Tenho flexibilidade, experiência e facíl adaptabilidade para trabalhar globalmente</b>.</li>
   <li>🌐Estou disponível para trabalhos fixos ou por projetos, seja de forma presencial, remota, híbrida, com ou sem necessidade de viagens ou mudanças nacionais/internacionais.</li>
 </ul>
@@ -75,28 +75,59 @@ Fale comigo, e vamos transformar ideias e projetos visionários em sucessos inte
 
 ---
 
+### Competências e Experiências Relevantes
+
+#### Gestão e Consultoria Executiva
+- 🛠️**Consultoria Executiva**: Consultoria estratégica para empresas, integrando tecnologia e gestão de processos.
+- 💼**Trabalhos Fixos ou Projetos**: Flexibilidade para atuar em projetos fixos ou consultivos, conforme demanda.
+- 🏢**Gestão de Processos**: Expertise em modelagem, automação e otimização de processos empresariais.
+- 🔬**Pesquisa Estratégica**: Capacidade de realizar análises detalhadas de dados direcionados à tomada de decisões.
+- 🧠**Integração de Tecnologias com Gestão**: Habilidade em unir inovações tecnológicas à gestão estratégica para melhoria contínua.
+- 🧠**Inteligência de Negócios**: Utilização de dados e análise para orientar decisões empresariais inteligentes.
+- 🔍**Pesquisa com Machine Learning**: Aplicação de machine learning para insights estratégicos.
+- 🛠️**Soluções Empresariais**: Desenvolvimento e implementação de soluções inovadoras para otimização de negócios.
+- 🔗**Colaboração com Grandes Empresas**: Experiência comprovada em projetos globais com grandes corporações.
+
+#### Habilidades Técnicas e Inovação
+- 🧠**Inteligência Artificial**: Desenvolvimento de soluções baseadas em IA para otimização de processos e inovação.
+- 📊**Ciência de Dados**: Análise de dados para extração de insights estratégicos e tomada de decisões.
+- 🔧**Indústria 4.0 / Smart Manufacturing**: Integração de tecnologias de última geração na indústria moderna.
+- 📈**Big Data**: Habilidades avançadas em análise de grandes volumes de dados e visualização.
+- ☁️**Cloud Computing**: Domínio de infraestruturas em nuvem e otimização de recursos tecnológicos.
+- 🤖**Machine Learning**: Criação de modelos de aprendizado de máquina para automação de processos e análise de dados.
+- 🚀**Tecnologias Disruptivas**: Proatividade em implementar e liderar iniciativas com tecnologias emergentes.
+- 💡**Soluções Inovadoras**: Habilidade em criar e desenvolver soluções inovadoras para resolver problemas complexos.
+- 📊**Business Intelligence**: Transformação de dados brutos em informações úteis para decisões empresariais.
+- 📡**Internet das Coisas (IoT)**: Integração de dispositivos e sensores inteligentes em processos produtivos.
+- ⚙️**Engenharia de Controle e Automação**: Conhecimento avançado em sistemas de controle automáticos e processos industriais.
+- 🌟**Inovação Tecnológica**: Liderança em projetos de inovação focados em melhorar a competitividade das empresas.
+
+#### Outros Diferenciais
+- 🧠**Pesquisa com Machine Learning**: Pesquisa aplicada para inovações estratégicas em IA e automação.
+- 📖**Escritor**: Produção de conteúdo técnico e criativo, com participação em eventos e publicações.
+- 🏛️**Economia dos 80% / Grande Reset**: Interesse e estudos sobre mudanças macroeconômicas e suas implicações nos negócios.
+- 🏛️**Participação em Eventos Globais**: Participação ativa em conferências e eventos que moldam o futuro das indústrias.
+
 ### EXPERIÊNCIA INTERNACIONAL:
+Estou no Brasil desde o final de 2021, após dois anos e meio dedicados profundamente ao meu desenvolvimento pessoal e profissional na Europa, onde participei intensamente em trabalhos e eventos realizados por grandes empresas e instituições renomadas.
+
 Durante minha estadia em importantes polos tecnológicos, principalmente na Itália e em Portugal, participei de trabalhos e eventos realizados por empresas como IBM, Google, Relayr, DriverlessAI (H2OAI), Logoplaste, Erising, ManpowerGroup, NOX, RE/MAX, Freguesia de Paranhos - Porto, além de instituições como o World Economic Forum e o C4IR.
 
 Minha formação acadêmica e trajetória profissional englobam uma diversidade de papéis, como executivo administrativo de inteligência de negócios, engenheiro de automação/robótica, cientista de dados, desenvolvedor de inteligência artificial, especialista em qualidade. Nas horas livres sou mentor voluntário, escritor, astrônomo amador e escritor/filósofo.
+
+Toda essa experiência me proporcionou conhecimentos e vivências que me capacitaram a compreender as profundas transformações do cenário mundial, além de conceitos como Economia dos 80%, o Grande Reset, inteligência artificial, o caminho do dinheiro e as transformações mundiais que serão geradas pelas CBDC's, tecnologias emergentes, tendências globais, dinâmicas geopolíticas e integração de novas tecnologias com metodologias de gestão, como Smart Manufacturing, Business Intelligence e Indústria 4.0.
 
 ---
 <!--
 
 
-### APRESENTAÇÃO PESSOAL:
+### HABILIDADES E COMPETÊNCIAS:
+- Especialista em tecnologias disruptivas e tendências globais.
+- Capacidade de transformar dados brutos em informações significativas para tomadas de decisão.
+- Facilidade em aprender rapidamente e resolver problemas complexos.
+- Experiência abrangente em todos os departamentos de uma empresa.
 Expert em inovação tecnológica, tecnologias disruptivas, pricipalmente em robótica, inteligência artificial e gestão de negócios/processos.
 
----
-
-### EXPERIÊNCIA INTERNACIONAL:
-Estou no Brasil desde o final de 2021, após dois anos e meio dedicados profundamente ao meu desenvolvimento pessoal e profissional na Europa, onde participei intensamente em trabalhos e eventos realizados por grandes empresas e instituições renomadas.
-
-
-
-Toda essa experiência me proporcionou conhecimentos e vivências que me capacitaram a compreender as profundas transformações do cenário mundial, além de conceitos como Economia dos 80%, o Grande Reset, inteligência artificial, o caminho do dinheiro e as transformações mundiais que serão geradas pelas CBDC's, tecnologias emergentes, tendências globais, dinâmicas geopolíticas e integração de novas tecnologias com metodologias de gestão, como Smart Manufacturing, Business Intelligence e Indústria 4.0.
-
----
 
 ### EXPERIÊNCIA PROFISSIONAL:
 Ao longo da minha trajetória, atuei em diversos papéis, como:
@@ -121,15 +152,6 @@ Atualmente, ofereço consultorias executivas personalizadas, em nível mundial, 
 
 Também realizo projetos próprios e co-participativos, com foco em soluções inovadoras e tecnológicas.
 
----
-
-### HABILIDADES E COMPETÊNCIAS:
-- Especialista em tecnologias disruptivas e tendências globais.
-- Capacidade de transformar dados brutos em informações significativas para tomadas de decisão.
-- Facilidade em aprender rapidamente e resolver problemas complexos.
-- Experiência abrangente em todos os departamentos de uma empresa.
-
----
 
 ### OUTROS PROJETOS E RECONHECIMENTOS:
 - Participei do Hackathon Empreenda Getnet, com o objetivo de impulsionar a receita das pequenas e médias empresas.
@@ -138,39 +160,7 @@ Também realizo projetos próprios e co-participativos, com foco em soluções i
 
 ---
 
-# Competências e Experiências Relevantes
 
-## Gestão e Consultoria Executiva
-- 
-- 🛠️ **Consultoria Executiva**: Consultoria estratégica para empresas, integrando tecnologia e gestão de processos.
-- 💼 **Trabalhos Fixos ou Projetos**: Flexibilidade para atuar em projetos fixos ou consultivos, conforme demanda.
-- 🏢 **Gestão de Processos**: Expertise em modelagem, automação e otimização de processos empresariais.
-- 🔬 **Pesquisa Estratégica**: Capacidade de realizar análises detalhadas e dados direcionados à tomada de decisões.
-- 🧠 **Integração de Tecnologias com Gestão**: Habilidade em unir inovações tecnológicas à gestão estratégica para melhoria contínua.
-- 🧠 **Inteligência de Negócios**: Utilização de dados e análise para orientar decisões empresariais inteligentes.
-- 🔍 **Pesquisa com Machine Learning**: Aplicação de machine learning para insights estratégicos.
-- 🛠️ **Soluções Empresariais**: Desenvolvimento e implementação de soluções inovadoras para otimização de negócios.
-- 🔗 **Colaboração com Grandes Empresas**: Experiência comprovada em projetos globais com grandes corporações.
-
-## Habilidades Técnicas e Inovação
-- 🧠 **Inteligência Artificial**: Desenvolvimento de soluções baseadas em IA para otimização de processos e inovação.
-- 📊 **Ciência de Dados**: Análise de dados para extração de insights estratégicos e tomada de decisões.
-- 🔧 **Indústria 4.0 / Smart Manufacturing**: Integração de tecnologias de última geração na indústria moderna.
-- 📈 **Big Data**: Habilidades avançadas em análise de grandes volumes de dados e visualização.
-- ☁️ **Cloud Computing**: Domínio de infraestruturas em nuvem e otimização de recursos tecnológicos.
-- 🤖 **Machine Learning**: Criação de modelos de aprendizado de máquina para automação de processos e análise de dados.
-- 🚀 **Tecnologias Disruptivas**: Proatividade em implementar e liderar iniciativas com tecnologias emergentes.
-- 💡 **Soluções Inovadoras**: Habilidade em criar e desenvolver soluções inovadoras para resolver problemas complexos.
-- 📊 **Business Intelligence**: Transformação de dados brutos em informações úteis para decisões empresariais.
-- 📡 **Internet das Coisas (IoT)**: Integração de dispositivos e sensores inteligentes em processos produtivos.
-- ⚙️ **Engenharia de Controle e Automação**: Conhecimento avançado em sistemas de controle automáticos e processos industriais.
-- 🌟 **Inovação Tecnológica**: Liderança em projetos de inovação focados em melhorar a competitividade das empresas.
-
-## Outros Diferenciais
-- 🧠 **Pesquisa com Machine Learning**: Pesquisa aplicada para inovações estratégicas em IA e automação.
-- 📖 **Escritor**: Produção de conteúdo técnico e criativo, com participação em eventos e publicações.
-- 🏛️ **Economia dos 80% / Grande Reset**: Interesse e estudos sobre mudanças macroeconômicas e suas implicações nos negócios.
-- 🏛️ **Participação em Eventos Globais**: Participação ativa em conferências e eventos que moldam o futuro das indústrias.
 -->
 
 ---
