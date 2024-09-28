@@ -57,15 +57,15 @@ Fale comigo, e vamos transformar ideias e projetos visionários em sucessos inte
 - **Italiano**: Proficiência (C1).
 - **Inglês**: Avançado (B2, com progresso para C1).
 - **Espanhol**: Intermediário (B1).
-- **Alfabeto Fonético Internacional**: Desenvolvi um método utilizando o AFI para a transcrição fonética e leitura de qualquer idioma, garantindo a pronúncia correta.
-- **Competências Digitais**: Utilizando ferramentas tecnológicas que aperfeiçoei, possuo a capacidade de me comunicar com proficiência em qualquer idioma.
+- **Alfabeto Fonético Internacional**: Desenvolvi um método utilizando o AFI junto com IA para a transcrição fonética e leitura de qualquer idioma, garantindo a pronúncia correta.
+- **Competências Digitais**: Quando utilizando ferramentas tecnológicas que criei e outras que aperfeiçoei, possuo a capacidade de me comunicar com proficiência em qualquer idioma.
 
 > #### 💬**Comunicação Multicultural**:
 > - Minha habilidade de adaptação e comunicação multicultural me torna um facilitador em equipes globais. Mesmo antes da consolidação da inteligência artificial para eliminar obstáculos na comunicação global, já obtinha excelentes interações internacionais, mesmo em contextos de idiomas desconhecidos.
-> - Lidei de forma eficaz com problemas internacionais de engenharia, qualidade, garantia, logística e compras, principalmente nos setores automotivo e químico, mas também em telecomunicações, em empresas multinacionais. Desenvolvi minhas próprias técnicas para me comunicar com profissionais de diferentes nacionalidades, solucionando grandes desafios em idiomas como inglês, espanhol, chinês, francês e italiano.
+> - Lidei de forma eficaz com problemas internacionais de engenharia, qualidade, garantia, logística e compras, principalmente nos setores automotivo, químico e de telecomunicações, em empresas multinacionais. Desenvolvi minhas próprias técnicas para me comunicar com profissionais de diferentes nacionalidades, solucionando grandes desafios em idiomas como inglês, espanhol, chinês, francês e italiano.
 > - Mesmo sem falar francês, desenvolvi um "Sistema Padrão de Garantia" (SPPC) em francês, que se tornou o padrão da matriz na França e, posteriormente, em todas as unidades da Valeo ao redor do mundo.
-> - Minha expertise em machine learning e OCR (Reconhecimento Óptico de Caracteres) também me permite realizar traduções precisas. Aplico tecnologia de ponta em textos arqueológicos e históricos, superando barreiras linguísticas até mesmo em idiomas quase extintos.
-> - Em resumo, posso me comunicar eficazmente com qualquer parte do mundo com o auxílio de tecnologia. Se houver a necessidade de aprender um novo idioma, faço isso de maneira rápida e eficiente.
+> - Minha expertise em machine learning e OCR (Reconhecimento Óptico de Caracteres) também me permite realizar traduções precisas de textos manuscritos. Aplico tecnologia de ponta em textos arqueológicos e históricos, superando barreiras linguísticas até mesmo em idiomas quase extintos.
+> - Em resumo, posso me comunicar eficazmente com qualquer parte do mundo com o auxílio de tecnologia. Se houver a necessidade de aprender um novo idioma, farei isso de maneira rápida e eficiente.
 
 #### 🧬**Perfil Comportamental (MBTI)**:
 - Minha personalidade, de acordo com o método Myers-Briggs Type Indicator, me classifica como INTJ, um perfil valorizado por indicar habilidades de pensamento e análise crítica, planejamento e liderança estratégica, autonomia, inovação, resolução de problemas e resultados.
@@ -75,7 +75,10 @@ Fale comigo, e vamos transformar ideias e projetos visionários em sucessos inte
 
 ---
 
+### EXPERIÊNCIA INTERNACIONAL:
+Durante minha estadia em importantes polos tecnológicos, principalmente na Itália e em Portugal, participei de trabalhos e eventos realizados por empresas como IBM, Google, Relayr, DriverlessAI (H2OAI), Logoplaste, Erising, ManpowerGroup, NOX, RE/MAX, Freguesia de Paranhos - Porto, além de instituições como o World Economic Forum e o C4IR.
 
+Minha formação acadêmica e trajetória profissional englobam uma diversidade de papéis, como executivo administrativo de inteligência de negócios, engenheiro de automação/robótica, cientista de dados, desenvolvedor de inteligência artificial, especialista em qualidade. Nas horas livres sou mentor voluntário, escritor, astrônomo amador e escritor/filósofo.
 
 ---
 <!--
@@ -89,7 +92,7 @@ Expert em inovação tecnológica, tecnologias disruptivas, pricipalmente em rob
 ### EXPERIÊNCIA INTERNACIONAL:
 Estou no Brasil desde o final de 2021, após dois anos e meio dedicados profundamente ao meu desenvolvimento pessoal e profissional na Europa, onde participei intensamente em trabalhos e eventos realizados por grandes empresas e instituições renomadas.
 
-Durante minha estadia em importantes polos tecnológicos, principalmente na Itália e em Portugal, participei de trabalhos e eventos realizados por empresas como IBM, Google, Relayr, DriverlessAI (H2OAI), Logoplaste, Erising, ManpowerGroup, NOX, RE/MAX, Freguesia de Paranhos - Porto, além de instituições como o World Economic Forum e o C4IR.
+
 
 Toda essa experiência me proporcionou conhecimentos e vivências que me capacitaram a compreender as profundas transformações do cenário mundial, além de conceitos como Economia dos 80%, o Grande Reset, inteligência artificial, o caminho do dinheiro e as transformações mundiais que serão geradas pelas CBDC's, tecnologias emergentes, tendências globais, dinâmicas geopolíticas e integração de novas tecnologias com metodologias de gestão, como Smart Manufacturing, Business Intelligence e Indústria 4.0.
 
@@ -132,12 +135,6 @@ Também realizo projetos próprios e co-participativos, com foco em soluções i
 - Participei do Hackathon Empreenda Getnet, com o objetivo de impulsionar a receita das pequenas e médias empresas.
 - Proprietário de grupos de marketing de rede, com base em estudos autorais aprovados pela FGV, alcançando até 4,5 milhões de inscritos.
 - Recebi certificação de destaque pela Google Itália.
-
----
-
-
-
-Também realizo trabalhos de tradução e recuperação de textos antigos utilizando inteligência artificial.
 
 ---
 
@@ -187,13 +184,13 @@ Também realizo trabalhos de tradução e recuperação de textos antigos utiliz
 ### Carta de APRESENTAÇÃO PESSOAL: 
 
 Em 2021, retornei ao Brasil após passar mais de dois anos e meio intensivamente dedicado ao meu desenvolvimento pessoal e profissional na Europa.
-<!--
+
 Durante minha estadia em importantes polos tecnológicos na Itália e em Portugal, tive a oportunidade de participar de eventos realizados por grandes empresas como IBM, Google, Relayr, DriverlessAI (H2OAI), Logoplaste, Erising, além de renomadas instituições de ensino e associações mundialmente reconhecidas, como o World Economic Forum, C4IR, entre outras.
 
 Essa experiência me permitiu adquirir conhecimentos e vivências que me capacitaram a compreender as profundas transformações que estão ocorrendo no cenário mundial, bem como entender o caminho do dinheiro, as dinâmicas geopolíticas e as suas oportunidades resultantes. Tenho familiaridade com conceitos como Economia dos 80%, o Grande Reset, além de estar atualizado sobre tecnologias emergentes e tendências globais, como inteligência artificial, integração de novas tecnologias com metodologias de gestão de empresas (como Smart Manufacturing, Business Intelligence e Indústria 4.0).
 
 Minha formação acadêmica e trajetória profissional englobam uma diversidade de papéis, como executivo administrativo de inteligência de negócios, engenheiro de automação/robótica, cientista de dados, desenvolvedor de inteligência artificial, especialista em qualidade. Nas horas livres sou mentor voluntário, escritor, astrônomo amador e escritor/filósofo.
-
+<!--
 É importante destacar que possuo cidadania brasileira e italiana, o que me proporciona livre acesso a diversos países. Além disso, recebi reconhecimento por meio de certificações relevantes, incluindo uma de descaque concedida pela Google Itália. Participei do desenvolvimento de aplicações para empresas como Cocamar, Uninassau, Fiap, Algar Tech, Tecban, Saint Paul & LIT, TNT e Fiat Chrysler Automobiles, utilizando tecnologias disruptivas do mercado, como inteligência artificial, big data, ciência de dados, cloud computing, visual recognition, machine learning, containers e IoT.
 
 Atualmente, continuo aprofundando meus conhecimentos nessas tecnologias mencionadas e em outras, enquanto trabalho em projetos próprios, projetos familiares e projetos co-participativos. Ofereço consultorias executivas personalizadas, presenciais e/ou virtuais em nível mundial, onde identifico problemas e apresento soluções em áreas como inteligência de negócios, gestão financeira, marketing 5.0 (com trabalho de atualização pela FGV - Fundação Getúlio Vargas), organização de departamentos com metodologias específicas, pesquisas em áreas estratégicas com machine learning e inteligência artificial, bem como outras atividades freelancer correlatas. Destaco meu trabalho de pesquisa e criação de Dossiê Técnico sobre Áreas de Investimento em Portugal, incluindo estudo de mercado completo realizado com data science, dados auditados e validados pelo "CI", além de panoramas socioeconômicos, mapeamentos e vídeos.
