@@ -1,13 +1,6 @@
-# Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-## Murilo Krominski por aqui.
+# Murilo Krominski 
+Hello World! <img src="https://github.com/MuriloKrominski/MuriloKrominski/blob/main/Hi.gif?raw=true" width="30px">
 
-### PARCERIAS: 
-Possui alguma grande ideia, uma solução disruptiva ou Start-Up?<br>
-Fale comigo, e vamos transformar ideias e projetos visionários em sucessos internacionais!
-
----
-
-### CONTATO:
 <a href="https://t.me/murilokrominski"><img alt="" src="https://img.shields.io/badge/Telegram-1D9BF0?style=for-the-badge&logo=telegram&logoColor=E5F3FF" height="20"></a>
 <a href="https://wa.me/+5511970388634"><img alt="" src="https://img.shields.io/badge/WhatsApp-22BB78?style=for-the-badge&logo=whatsapp&logoColor=E8F6EE" height="20"></a>
 <a href="https://www.threads.net/@murilokrominski"><img alt="" src="https://img.shields.io/badge/Threads-565656?style=for-the-badge&logo=threads&logoColor=D8D8D8" height="20"></a>
@@ -16,9 +9,21 @@ Fale comigo, e vamos transformar ideias e projetos visionários em sucessos inte
 <!-- <a href="https://www.linkedin.com/in/murilokrominski"><img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=DCEEF7" height="20"></a> -->
 ---
 
-### REPOSITÓRIO β(PÚBLICO):
-<a href="https://github.com/MuriloKrominski"><img alt="" src="https://img.shields.io/badge/Repositório%20β(público)%3A-Fechado%20Temporariamente-red"></a>
-<!-- Liberar primeiro no IBM Watson Studio -->
+### PARCERIAS: 
+Possui alguma grande ideia, uma solução disruptiva ou Start-Up?<br>
+Fale comigo, e vamos transformar ideias e projetos visionários em sucessos internacionais!
+
+---
+
+### FORMAÇÃO ACADÊMICA E CERTIFICAÇÕES:
+- 👨🏻‍💼Especialização em Administração de Empresas (FGV - Fundação Getúlio Vargas) | Clasificação: 1º na America Latina e única privado brasileira no Top 100 Global(na data da formatura).
+- 🤖Graduação em Engenharia Robótica, com registro no CREA (Brasil - posibilidade de covalidação na Europa).
+- ⚙️Formação técnica em Mecatrônica Industrial.
+- 🔍Formação técnica em Qualidade.
+- 📚500+ Certificações de formação em diversas áreas, seja técnica, administrativa, tecnologica, comportamental, inovação, etc.
+- 🏅Certificações Internacionais por participação em eventos e cursos, principalmente big techs na Italia e Portugal.
+- 📜Hackathons/Meetup/Maratonas Dev Internacionais.
+- 🌍Intensivo Acadêmico/Profissional em polos técnológicos Europeus
 
 ---
 
@@ -60,10 +65,19 @@ Fale comigo, e vamos transformar ideias e projetos visionários em sucessos inte
 > - Minha expertise em machine learning e OCR (Reconhecimento Óptico de Caracteres) também me permite realizar traduções precisas. Aplico tecnologia de ponta em textos arqueológicos e históricos, superando barreiras linguísticas até mesmo em idiomas quase extintos.
 > - Em resumo, posso me comunicar eficazmente com qualquer parte do mundo com o auxílio de tecnologia. Se houver a necessidade de aprender um novo idioma, faço isso de maneira rápida e eficiente.
 
-#### 🧬**Perfil Comportamental**:
-- Minha personalidade, de acordo com o método MBTI (Myers-Briggs Type Indicator), me classifica como INTJ, um perfil valorizado por indicar habilidades de pensamento e análise crítica, planejamento e liderança estratégica, autonomia, inovação, resolução de problemas e resultados.
+#### 🧬**Perfil Comportamental (MBTI)**:
+- Minha personalidade, de acordo com o método Myers-Briggs Type Indicator, me classifica como INTJ, um perfil valorizado por indicar habilidades de pensamento e análise crítica, planejamento e liderança estratégica, autonomia, inovação, resolução de problemas e resultados.
+
+#### 🧠**Altas Habilidades e Superdotação (AHSD)**:
+- Reconhecimento oficial por apresentar habilidades cognitivas acima da média em áreas como raciocínio lógico, criatividade e resolução de problemas complexos. Capacidade de aprender rapidamente, hiperfocar e aplicar conhecimentos em contextos novos e desafiadores.
 
 ---
+
+
+
+---
+<!--
+
 
 ### APRESENTAÇÃO PESSOAL:
 Expert em inovação tecnológica, tecnologias disruptivas, pricipalmente em robótica, inteligência artificial e gestão de negócios/processos.
@@ -76,21 +90,6 @@ Estou no Brasil desde o final de 2021, após dois anos e meio dedicados profunda
 Durante minha estadia em importantes polos tecnológicos, principalmente na Itália e em Portugal, participei de trabalhos e eventos realizados por empresas como IBM, Google, Relayr, DriverlessAI (H2OAI), Logoplaste, Erising, ManpowerGroup, NOX, RE/MAX, Freguesia de Paranhos - Porto, além de instituições como o World Economic Forum e o C4IR.
 
 Toda essa experiência me proporcionou conhecimentos e vivências que me capacitaram a compreender as profundas transformações do cenário mundial, além de conceitos como Economia dos 80%, o Grande Reset, inteligência artificial, o caminho do dinheiro e as transformações mundiais que serão geradas pelas CBDC's, tecnologias emergentes, tendências globais, dinâmicas geopolíticas e integração de novas tecnologias com metodologias de gestão, como Smart Manufacturing, Business Intelligence e Indústria 4.0.
-
----
-
-### FORMAÇÃO ACADÊMICA:
-Minha formação acadêmica inclui:
-- Especialização em Administração de Empresas pela FGV (Fundação Getúlio Vargas).
-- Graduação em Engenharia de Controle e Automação, com registro no CREA.
-- Formação técnica em Mecatrônica Industrial.
-- Formação técnica em Microchips/Microprocessadores.
-
-Minha formação é complementada por mais de 500 certificações, abrangendo áreas como qualidade, informática, marketing e finanças.
-
-<!--
-
--->
 
 ---
 
@@ -143,7 +142,7 @@ Também realizo trabalhos de tradução e recuperação de textos antigos utiliz
 # Competências e Experiências Relevantes
 
 ## Gestão e Consultoria Executiva
-- 👨🏻‍💼 **Gestão Empresarial**: Ampla experiência na administração de operações e equipes, com foco em eficiência e inovação.
+- 
 - 🛠️ **Consultoria Executiva**: Consultoria estratégica para empresas, integrando tecnologia e gestão de processos.
 - 💼 **Trabalhos Fixos ou Projetos**: Flexibilidade para atuar em projetos fixos ou consultivos, conforme demanda.
 - 🏢 **Gestão de Processos**: Expertise em modelagem, automação e otimização de processos empresariais.
@@ -155,7 +154,6 @@ Também realizo trabalhos de tradução e recuperação de textos antigos utiliz
 - 🔗 **Colaboração com Grandes Empresas**: Experiência comprovada em projetos globais com grandes corporações.
 
 ## Habilidades Técnicas e Inovação
-- 🤖 **Engenharia Robótica**: Proficiência em automação e robótica aplicada à indústria.
 - 🧠 **Inteligência Artificial**: Desenvolvimento de soluções baseadas em IA para otimização de processos e inovação.
 - 📊 **Ciência de Dados**: Análise de dados para extração de insights estratégicos e tomada de decisões.
 - 🔧 **Indústria 4.0 / Smart Manufacturing**: Integração de tecnologias de última geração na indústria moderna.
@@ -169,25 +167,25 @@ Também realizo trabalhos de tradução e recuperação de textos antigos utiliz
 - ⚙️ **Engenharia de Controle e Automação**: Conhecimento avançado em sistemas de controle automáticos e processos industriais.
 - 🌟 **Inovação Tecnológica**: Liderança em projetos de inovação focados em melhorar a competitividade das empresas.
 
-## Certificações e Formação
-- 📚 **500+ Certificações**: Extensa formação técnica e especializada em gestão, tecnologia e inovação.
-- 🏅 **Certificações Internacionais**: Certificações reconhecidas globalmente que validam minha expertise em diversas áreas.
-- 📜 **Hackathons**: Participação ativa em competições de inovação, com foco em desenvolvimento de soluções tecnológicas.
-
-
-
-
 ## Outros Diferenciais
 - 🧠 **Pesquisa com Machine Learning**: Pesquisa aplicada para inovações estratégicas em IA e automação.
 - 📖 **Escritor**: Produção de conteúdo técnico e criativo, com participação em eventos e publicações.
 - 🏛️ **Economia dos 80% / Grande Reset**: Interesse e estudos sobre mudanças macroeconômicas e suas implicações nos negócios.
 - 🏛️ **Participação em Eventos Globais**: Participação ativa em conferências e eventos que moldam o futuro das indústrias.
+-->
 
+---
+
+### REPOSITÓRIO β(PÚBLICO):
+<a href="https://github.com/MuriloKrominski"><img alt="" src="https://img.shields.io/badge/Repositório%20β(público)%3A-Fechado%20Temporariamente-red"></a>
+<!-- Liberar primeiro no IBM Watson Studio -->
+
+---
+
+### Carta de APRESENTAÇÃO PESSOAL: 
+
+Em 2021, retornei ao Brasil após passar mais de dois anos e meio intensivamente dedicado ao meu desenvolvimento pessoal e profissional na Europa.
 <!--
-### APRESENTAÇÃO PESSOAL: 
-
-Em 2021, retornei ao Brasil após passar pouco mais de dois anos e meio dedicado ao meu desenvolvimento pessoal e profissional na Europa.
-
 Durante minha estadia em importantes polos tecnológicos na Itália e em Portugal, tive a oportunidade de participar de eventos realizados por grandes empresas como IBM, Google, Relayr, DriverlessAI (H2OAI), Logoplaste, Erising, além de renomadas instituições de ensino e associações mundialmente reconhecidas, como o World Economic Forum, C4IR, entre outras.
 
 Essa experiência me permitiu adquirir conhecimentos e vivências que me capacitaram a compreender as profundas transformações que estão ocorrendo no cenário mundial, bem como entender o caminho do dinheiro, as dinâmicas geopolíticas e as suas oportunidades resultantes. Tenho familiaridade com conceitos como Economia dos 80%, o Grande Reset, além de estar atualizado sobre tecnologias emergentes e tendências globais, como inteligência artificial, integração de novas tecnologias com metodologias de gestão de empresas (como Smart Manufacturing, Business Intelligence e Indústria 4.0).
@@ -197,9 +195,10 @@ Minha formação acadêmica e trajetória profissional englobam uma diversidade 
 É importante destacar que possuo cidadania brasileira e italiana, o que me proporciona livre acesso a diversos países. Além disso, recebi reconhecimento por meio de certificações relevantes, incluindo uma de descaque concedida pela Google Itália. Participei do desenvolvimento de aplicações para empresas como Cocamar, Uninassau, Fiap, Algar Tech, Tecban, Saint Paul & LIT, TNT e Fiat Chrysler Automobiles, utilizando tecnologias disruptivas do mercado, como inteligência artificial, big data, ciência de dados, cloud computing, visual recognition, machine learning, containers e IoT.
 
 Atualmente, continuo aprofundando meus conhecimentos nessas tecnologias mencionadas e em outras, enquanto trabalho em projetos próprios, projetos familiares e projetos co-participativos. Ofereço consultorias executivas personalizadas, presenciais e/ou virtuais em nível mundial, onde identifico problemas e apresento soluções em áreas como inteligência de negócios, gestão financeira, marketing 5.0 (com trabalho de atualização pela FGV - Fundação Getúlio Vargas), organização de departamentos com metodologias específicas, pesquisas em áreas estratégicas com machine learning e inteligência artificial, bem como outras atividades freelancer correlatas. Destaco meu trabalho de pesquisa e criação de Dossiê Técnico sobre Áreas de Investimento em Portugal, incluindo estudo de mercado completo realizado com data science, dados auditados e validados pelo "CI", além de panoramas socioeconômicos, mapeamentos e vídeos.
-
+-->
 Minha formação acadêmica inclui especialização em Administração de Empresas pela FGV - Fundação Getúlio Vargas, instituição constantemente classificada em primeiro lugar na América Latina e reconhecida como uma das 100 melhores do mundo na minha área de especialização. Sou graduado em Engenharia de Controle e Automação, com registro no CREA, e possuo formação técnica em Mecatrônica Industrial. Minha ampla gama de certificados e experiências abrange áreas como qualidade, informática, marketing, finanças, entre outras.
 
+<!--
 Também sou proprietário de grupos de marketing de rede, com base em estudos autorais próprios sobre marketing e vendas, aprovados pela FGV - Fundação Getúlio Vargas, alcançando até 4,5 milhões de inscritos.
 
 Estou preparado para resolver problemas e estabelecer negócios de sucesso. Busco parcerias nas áreas administrativa, comercial, executiva ou técnica, onde possa contribuir com minhas habilidades e afinidades em atividades organizacionais e estratégicas.
@@ -217,12 +216,11 @@ Possuo acesso a dezenas de ferramentas de gestão empresarial, muitas delas de f
 Entre minhas atividades anteriores, destaco minha atuação como gestor, auditor e consultor de Sistemas da Qualidade, principalmente em fornecedores industriais. Liderei equipes técnicas e administrativas, otimizei processos por meio de automação e desenvolvimento de sistemas de controle, e solucionei problemas nas áreas de logística, qualidade, engenharia, marketing e vendas. Fui responsável pela criação de um sistema de controle em Excel com VBA que substituiu o padrão mundial no Valeo Group, pelo programa de SPPC (Special Product and Process Characteristics). Também conduzi um estudo que resultou na resolução de um problema técnico persistente no setor de embalagens da Amend Cosméticos. Tive a oportunidade de conhecer praticamente todos os departamentos e suas atividades em empresas de pequeno, médio e grande porte, tanto nacionais quanto multinacionais, etc.
 
 Ao sair da Europa, deixei os cargos de Gestor Comercial / Gestor de Clientes e Consultor Imobiliário / Consultor de Investimentos, respectivamente nas empresas ManpowerGroup Solutions / NOS e RE/MAX Group / Investidor Em Portugal.
-
-Quanto aos meus idiomas, possuo fluência em Português (C2), proficiência em Italiano (C1), nível avançado de Inglês (B2, em breve C1) e nível intermediário de Espanhol (B1). Também trabalho com outras línguas, como por exemplo, realizando trabalhos de recuperação de textos antigos e tradução para outras línguas utilizando inteligência artificial.
+-->
+Quanto aos meus idiomas, possuo fluência em Português (C2), proficiência em Italiano (C1), nível avançado de Inglês (B2, em breve C1) e nível intermediário de Espanhol (B1). Também trabalho com outras línguas, como por exemplo, realizando trabalhos de recuperação de textos antigos e tradução para outras línguas utilizando também a inteligência artificial.
 
 Estou confiante de que podemos estabelecer parcerias e realizar negócios bem-sucedidos juntos.
 
 Atenciosamente,
 
 Murilo Krominski
--->
