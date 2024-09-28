@@ -15,15 +15,17 @@ Fale comigo, e vamos transformar ideias e projetos visionários em sucessos inte
 
 ---
 
-### FORMAÇÃO ACADÊMICA E CERTIFICAÇÕES:
-- 👨🏻‍💼Especialização em Administração de Empresas (FGV - Fundação Getúlio Vargas) | Clasificação: 1º na America Latina e única privado brasileira no Top 100 Global(na data da formatura).
-- 🤖Graduação em Engenharia Robótica, com registro no CREA (Brasil - posibilidade de covalidação na Europa).
-- ⚙️Formação técnica em Mecatrônica Industrial.
-- 🔍Formação técnica em Qualidade.
-- 📚500+ Certificações de formação em diversas áreas, seja técnica, administrativa, tecnologica, comportamental, inovação, etc.
-- 🏅Certificações Internacionais por participação em eventos e cursos, principalmente big techs na Italia e Portugal.
-- 📜Hackathons/Meetup/Maratonas Dev Internacionais.
-- 🌍Intensivo Acadêmico/Profissional em polos técnológicos Europeus
+### **FORMAÇÃO ACADÊMICA E CERTIFICAÇÕES:**
+- 👨🏻‍💼**Especialização em Administração de Empresas** – Fundação Getúlio Vargas (FGV).
+  *Classificação: 1ª na América Latina e única instituição privada brasileira no Top 100 Global (na data da formatura).*
+- 🤖**Graduação em Engenharia Robótica** – Registro no CREA.
+  *Habilitado para convalidação na Europa.*
+- ⚙️**Formação Técnica em Mecatrônica Industrial**.
+- 🔍**Formação Técnica em Qualidade**.
+- 📚**500+ Certificações** em áreas como tecnologia, administração, inovação, comportamento e outras especialidades técnicas.
+- 🏅**Certificações Internacionais** por Participações em eventos e cursos de grandes empresas de tecnologia, com foco em desenvolvimento e inovação, principalmente na Itália e Portugal.
+- 🧑‍💻**Participação em Hackathons, Meetups e Maratonas Dev Internacionais**.
+- 🌍**Intensivo Acadêmico e Profissional Internacional** – Experiência prática e imersiva em polos tecnológicos de renome na Europa, com ênfase no intercâmbio de conhecimento e na colaboração com especialistas e empresas de tecnologia de ponta.
 
 ---
 
