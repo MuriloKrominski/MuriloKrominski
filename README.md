@@ -53,7 +53,7 @@ I’ve set my repository to private so I can dive back in, revamp, and polish up
 </p>
 
 <p align="center">
-    <a href="https://murilokrominski.github.io/Amazon-Bestsellers-Analysis-App">
+    <a href="https://amazon-bestsellers-analysis-app-murilokrominski.streamlit.app">
         <img src="https://raw.githubusercontent.com/MuriloKrominski/Amazon-Bestsellers-Analysis-App/refs/heads/main/Amazon-Bestsellers-Analysis-App.png" 
         alt="Remember-A-Link-to-the-Past" width="640" height="auto">
     </a>
