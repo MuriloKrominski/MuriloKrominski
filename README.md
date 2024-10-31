@@ -32,7 +32,7 @@
     </a>
     <br>
 </p>
-<p align="center">Hello World! !<img src="https://murilokrominski.github.io/media/Hi.gif" alt="Hi" width="30" height="30"></p>
+<p align="center">Hello World!<img src="https://murilokrominski.github.io/media/Hi.gif" alt="Hi" width="30" height="30"></p>
 
 ---
 <p>
