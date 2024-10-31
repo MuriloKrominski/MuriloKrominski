@@ -1,12 +1,12 @@
 # Murilo Krominski
-Hello World! !<img src="https://murilokrominski.github.io/media/Hi.gif" alt="Hi" width="30" height="30">
+
 
 <p align="center">
     <a href="https://murilokrominski.github.io/autor.htm">
         <img src="https://murilokrominski.github.io/media/avatar.jpeg" alt="autor" width="160" height="160">
     </a>
     <br>
-    By <a href="https://murilokrominski.github.io/autor.htm">Murilo Krominski</a>
+    <a href="https://murilokrominski.github.io/autor.htm">Murilo Krominski</a>
     <br>
     <a href="https://murilokrominski.github.io/autor.htm">
         <img src="https://img.shields.io/badge/https://murilokrominski.github.io/autor.htm-blue.svg" alt="Autor">
@@ -32,6 +32,7 @@ Hello World! !<img src="https://murilokrominski.github.io/media/Hi.gif" alt="Hi"
     </a>
     <br>
 </p>
+<p align="center">Hello World! !<img src="https://murilokrominski.github.io/media/Hi.gif" alt="Hi" width="30" height="30"></p>
 
 ---
 <p>
