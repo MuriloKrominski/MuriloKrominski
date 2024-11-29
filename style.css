@@ -1,0 +1,132 @@
+
+/* Importando a fonte Roboto */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+/* Estilo geral */
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Estilizando o título principal */
+h1 {
+    color: #005EB8;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+/* Subtítulos */
+h2 {
+    color: #005EB8;
+    border-bottom: 2px solid #005EB8;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+    font-weight: 700;
+}
+
+/* Blocos de citação */
+blockquote {
+    background-color: #e6f2ff;
+    border-left: 5px solid #005EB8;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 10px 0;
+    font-style: italic;
+}
+
+/* Estilizando as listas */
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+/* Estilizando os links */
+a {
+    color: #005EB8;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Caixa de código */
+pre {
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    padding: 15px;
+    overflow-x: auto;
+}
+
+code {
+    font-family: 'Roboto Mono', monospace;
+    background-color: #d0eaff; /* Alterando o fundo do code para um azul mais evidente */
+    padding: 4px 6px;
+    border-radius: 5px;
+    font-size: 90%;
+}
+
+/* Rodapé */
+footer {
+    background-color: #005EB8;
+    color: black; /* Texto preto */
+    font-weight: bold; /* Texto em negrito */
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+footer a {
+    color: black; /* Links no rodapé em preto */
+    font-weight: bold;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+/* Estilo para as seções de repositórios */
+h3 {
+    color: #005EB8;
+    margin-top: 20px;
+}
+
+ul li strong {
+    color: #005EB8;
+}
+
+/* Bordas arredondadas para blocos */
+ul, blockquote, pre, footer {
+    border-radius: 10px;
+}
+
+/* Responsividade para o iframe */
+.responsive-iframe {
+    width: 100%; /* Ocupa 100% da largura do contêiner pai */
+    max-width: 600px; /* Limite máximo para manter a proporção original em telas maiores */
+    height: auto; /* Mantém a altura proporcional à largura */
+    border: 0;
+}
+
+/* Media queries para melhor responsividade em dispositivos móveis */
+@media (max-width: 600px) {
+    body {
+        padding: 10px;
+    }
+    h1, h2, h3 {
+        font-size: 1.2em; /* Ajuste o tamanho dos títulos para telas pequenas */
+    }
+    blockquote {
+        font-size: 0.9em;
+    }
+}
